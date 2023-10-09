@@ -1,53 +1,47 @@
-// const puppeteer = require('puppeteer');
-const userAgent = require('user-agents');
 const puppeteer = require('puppeteer-extra')
 const axios = require('axios')
-
-// add stealth plugin and use defaults (all evasion techniques)
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
 const fs = require("fs");
 
 let userDetailsUrl = '';
+let objectUser;
 puppeteer.use(StealthPlugin());
 
 
-(async () => {
+const screaperTiktok = async (username) => {
   const browser = await puppeteer.launch({
-    
-    executablePath:
-      "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
-    headless: false,
+    // Se você estiver usando macbook descomente a linha abaixo:
+    // executablePath:
+    //   "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+    headless: true,
   });
   const page = await browser.newPage();
 
   await page.setRequestInterception(true);
   page.on('request', async (request) => {
-    
-    // console.log('Intercepted request URL:', request.url());
+ 
     if(request.url().includes('https://www.tiktok.com/api/user/detail/')){
-
+      userDetailsUrl = request.url()
     }
-    // Você pode tomar decisões com base na URL da requisição ou fazer o que for necessário aqui
-    request.continue(); // Continua a requisição
+    request.continue();
   });
 
-  page.on('response', async (response) => {
-     if(response.url().includes('https://www.tiktok.com/api/user/detail/')){
-      console.log(response.status())
-      setTimeout(async()=>{
-        console.log('Chamou o set timoeout')
-        const reseponseTeste = await response.buffer();
-        reseponseTeste.json()
-        console.log(reseponseTeste);
-      },2000)
 
-     }
-  
-    // Você pode acessar os detalhes da resposta aqui, se necessário
+
+  await page.goto(`https://www.tiktok.com/@${username}`);
+  await page.reload();
+  // await page.goto(userDetailsUrl);
+  return new Promise(async (resolve, reject) => {
+    setTimeout(async () => {
+      await page.goto(userDetailsUrl);
+      await page.evaluate(() => console.log('Testando o console'));
+      await page.waitForSelector('pre');
+      const objectUser = await page.$eval('pre', (el) => {
+        return el.innerText;
+      });
+      resolve(JSON.parse(objectUser).userInfo);
+      await browser.close();
+    }, 2000);
   });
-
-  await page.goto('https://www.tiktok.com/@juliakbarni');
-  await page.reload()
-  // await browser.close();
-
-})();
+};
+module.exports = screaperTiktok;
