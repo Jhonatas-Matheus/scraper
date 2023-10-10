@@ -1,13 +1,23 @@
 const express = require("express")
-const screaperTiktok =  require("./tiktok")
+const scraperTiktok =  require("./tiktok")
+const screaperInstatram = require("./instagram")
 
+const timeoutMillis = 5 * 60 * 1000;
 const app = express();
 const port = 3000;
-app.get('/', async (req, res) => {
+app.get('/tiktok', async (req, res) => {
     const { user } = req.query
-    res.status(200).json(await screaperTiktok(user))
+    const response = await scraperTiktok(user)
+    res.status(200).json(response)
+
   })
+app.get('/instagram', async (req, res) => {
+  const { user } = req.query
+  const response = await screaperInstatram(user)
+  res.status(200).json(response)
+
+})
 
   app.listen(port, () => {
-    console.log(`Example app listening on port ${port}`)
+    console.log(`Aplicação rodando na porta ${port}`)
   })
