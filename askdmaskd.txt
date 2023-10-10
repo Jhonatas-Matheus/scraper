@@ -1,0 +1,2556 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "aaujoL3u8PhdsgBtKLa-BGmCli8",
+  "nextPageToken": "EAAaIVBUOkNESWlFRFJDUlRkR01FSXlPRE5CUWpNMk9EWW9BUQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oMbGVTJUp33ds_LlMRxJii_zrxo",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LmxNVmxMcnZsZ01F",
+      "snippet": {
+        "publishedAt": "2023-10-06T15:03:22Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "MIL VECES en mi mente pero hoy es diferente  🛌💖 Ya hicieron pre-save?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lMVlLrvlgME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lMVlLrvlgME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lMVlLrvlgME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lMVlLrvlgME/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lMVlLrvlgME/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lMVlLrvlgME"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "lMVlLrvlgME",
+        "videoPublishedAt": "2023-10-06T15:03:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VGYgmc-HF6kE6RDZ-ET3WZWNAso",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LjA0ZXZsV21TQXpj",
+      "snippet": {
+        "publishedAt": "2023-10-04T12:23:48Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Genteee!!! Están listos para ‘Mil Veces’? 🔥  Creen sus reels y tagueenme! Los leoooo 👀",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/04evlWmSAzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/04evlWmSAzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/04evlWmSAzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/04evlWmSAzc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/04evlWmSAzc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "04evlWmSAzc"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "04evlWmSAzc",
+        "videoPublishedAt": "2023-10-04T12:23:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WDYiTrJZ2H9mxRkuoRPgdq2MLiQ",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LmRJUmxOWEsteHRV",
+      "snippet": {
+        "publishedAt": "2023-09-23T16:47:45Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Ontem foi dia de ensaio",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dIRlNXK-xtU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dIRlNXK-xtU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dIRlNXK-xtU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dIRlNXK-xtU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dIRlNXK-xtU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dIRlNXK-xtU"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "dIRlNXK-xtU",
+        "videoPublishedAt": "2023-09-23T16:47:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dhylBShyQJY6ySdrJTgLZdxOGaQ",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13Ljd1VGJVT2paazgw",
+      "snippet": {
+        "publishedAt": "2023-09-15T16:21:16Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Go check “Back For More”",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7uTbUOjZk80/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7uTbUOjZk80/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7uTbUOjZk80/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7uTbUOjZk80/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7uTbUOjZk80/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7uTbUOjZk80"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "7uTbUOjZk80",
+        "videoPublishedAt": "2023-09-15T16:21:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8ffHmb42Tg27s_-hpzGDHqBAiM4",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LlZZMVJreUQyNE1z",
+      "snippet": {
+        "publishedAt": "2023-08-24T15:00:10Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta - Used To Be (Official Music Video)",
+        "description": "Official music video for Anitta “Used To Be”, available everywhere now: https://Anitta.lnk.to/AFavelaLoveStory\n\nFollow Anitta: \nSpotify | http://sptfy.com/1PY8 \nInstagram | http://instagram.com/anitta \nTwitter | http://twitter.com/anitta \nFacebook | http://facebook.com/AnittaOficial\nTikTok | https://www.tiktok.com/@anitta\n\nLyrics:\nChorus:\nI used to be a hoe but now I aint no more, been swimming through the water now I’m back to shore,\nI look at who i did and i’m like ‘oh my lord’,\nI used to be a ho oh oh oh oh oh oh oh oh oh oh oh\nnow I aint no more oh oh oh oh oh,\nI used to be a ho oh oh oh oh oh,\nnow I aint no more oh oh oh oh oh oh,\n\n\nVerse 1:\nUna perra de raza Muy dura de matar Pero ahora soy mansa Y ya no muerdo más Rompí muchos corazones Y a mi no me lo rompieron Pero ya yo no quiero Toy tranquila y ya\n\n\nPre Chorus:\nAndé por el mundo buscando placer Pero ya no queda nada na\nNo discriminaba ni rico ni pobre\nA toditos les daba\nKeep talking cuz I aint gon’ hear what you say, (time to switch up energy)\n\n\nChorus 2:\nI used to be a hoe but now I aint no more, been swimming through the water now I’m back to shore,\nI look at who i did and i’m like ‘oh my lord’,\nI used to be a ho oh oh oh oh oh oh oh oh oh oh oh\nnow I aint no more oh oh oh oh oh,\nI used to be a ho oh oh oh oh oh,\nnow I aint no more oh oh oh oh oh oh\n(Used to be one but I aint no more)\n\n\nVerse 2:\nUna perra de raza Muy dura de matar Pero ahora soy mansa Y ya no muerdo más\nYo rompía to las camas Pero ya no hago reguero Ahora para comerlo Debe ser no ah\n\n\nPre Chorus 2:\nAndé por el mundo buscando placer Pero ya no queda nada na\nNo discriminaba ni rico ni pobre\nA toditos les daba\nKeep talking cuz I aint gon’ hear what you say, (time to switch up energy)\n\n\nChorus 3:\nI used to be a hoe but now I aint no more, been swimming through the water now I’m back to shore,\nI look at who i did and i’m like ‘oh my lord’,\nI used to be a ho oh oh oh oh oh oh oh oh oh oh oh\nnow I aint no more oh oh oh oh oh,\nI used to be a ho oh oh oh oh oh,\nnow I aint no more oh oh oh oh oh oh\n(Used to be one but I aint no more)\n\n\nOutro:\n(Una perra de raza)\nMuy dura de matar\n(Pero ahora soy mansa)\nY ya no muerdo más\n(Used to be one but I aint no more) \n          \n#Anitta #UsedToBe #FunkGeneration #AFavelaLoveStory      \n\nMusic video by Anitta performing Used To Be. A Republic Records / UMLE (Universal Music Latino) release.; © 2023 Floresta Records Inc., under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VY1RkyD24Ms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VY1RkyD24Ms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VY1RkyD24Ms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VY1RkyD24Ms/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VY1RkyD24Ms/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VY1RkyD24Ms"
+        },
+        "videoOwnerChannelTitle": "AnittaVEVO",
+        "videoOwnerChannelId": "UCtumXDPrqd3lhGEVyIex1lw"
+      },
+      "contentDetails": {
+        "videoId": "VY1RkyD24Ms",
+        "videoPublishedAt": "2023-08-24T15:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9Y7PwON7t0XmIz61XK3Agj_Nwxo",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LlNFSHpSUTlTajZJ",
+      "snippet": {
+        "publishedAt": "2023-08-23T19:21:10Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "but now I aint no more",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SEHzRQ9Sj6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SEHzRQ9Sj6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SEHzRQ9Sj6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SEHzRQ9Sj6I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SEHzRQ9Sj6I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SEHzRQ9Sj6I"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "SEHzRQ9Sj6I",
+        "videoPublishedAt": "2023-08-23T19:21:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3i7MMAjksm9EEwjsDT_3vrsmaPw",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LlVGOXF2RUVhVXpV",
+      "snippet": {
+        "publishedAt": "2023-08-21T14:37:03Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Get ready for Used to Be!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UF9qvEEaUzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UF9qvEEaUzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UF9qvEEaUzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UF9qvEEaUzU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UF9qvEEaUzU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UF9qvEEaUzU"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "UF9qvEEaUzU",
+        "videoPublishedAt": "2023-08-21T14:37:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RGrtZushOPRsP9HmyXGJ2b8T83I",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LnZ3RUN3cHpkajlv",
+      "snippet": {
+        "publishedAt": "2023-08-18T15:00:10Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta - Casi Casi (Official Music Video)",
+        "description": "Official music video for Anitta “Casi Casi”, available everywhere now: https://Anitta.lnk.to/AFavelaLoveStory\n\nFollow Anitta: \nSpotify | http://sptfy.com/1PY8 \nInstagram | http://instagram.com/anitta \nTwitter | http://twitter.com/anitta \nFacebook | http://facebook.com/AnittaOficial\nTikTok | https://www.tiktok.com/@anitta\n\n#Anitta #CasiCasi #FunkGeneration #AFavelaLoveStory #bebacommoderação\n\n\n\nMusic video by Anitta performing Casi Casi. A Republic Records / UMLE (Universal Music Latino) release.; © 2023 Floresta Records Inc., under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vwECwpzdj9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vwECwpzdj9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vwECwpzdj9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vwECwpzdj9o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vwECwpzdj9o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vwECwpzdj9o"
+        },
+        "videoOwnerChannelTitle": "AnittaVEVO",
+        "videoOwnerChannelId": "UCtumXDPrqd3lhGEVyIex1lw"
+      },
+      "contentDetails": {
+        "videoId": "vwECwpzdj9o",
+        "videoPublishedAt": "2023-08-18T15:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KFHQQfm5Z-cRRno7hWSSmQJikJQ",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13Lkhydng5bHBuRHBr",
+      "snippet": {
+        "publishedAt": "2023-08-18T00:02:38Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta - Casi Casi (Official Lyric Video)",
+        "description": "Official lyric video for Anitta “Casi Casi”, available everywhere now: https://Anitta.lnk.to/AFavelaLoveStory\n\nFollow Anitta: \nSpotify | http://sptfy.com/1PY8 \nInstagram | http://instagram.com/anitta \nTwitter | http://twitter.com/anitta \nFacebook | http://facebook.com/AnittaOficial\nTikTok | https://www.tiktok.com/@anitta\n\nLyrics:\nI know that you like them\nThe baddest and the most outlawed\nThat when she traps you\nThere is no way out\nLet her go crazy\nAfter the drinking\nOh, you like it?\nWant a bite?\nYou will see what we do tonight\nWith a couple of friends to the hotel to be crazy\n\nHey, if we ain’t getting drunk\nWe getting paid\nIma have you begging for this cake\nI know you’ve been thinking about it Don’t be scared of me\nI don’t bite but I touch everything\n\nHey, if we ain’t getting drunk\nWe getting paid\nIma have you begging for this cake\nI know you’ve been thinking about it Don’t be scared of me\nI don’t bite but I touch everything\n\nI’ll throw it in your face What’s that? That’s wonderful Before you crash\nCome and rock me\nThen me, being a good girl\nIll call your taxi\nBut almost, almost\nThey will call me mom\nAnd I will call you daddy\nEven if your not my dad\nWe will do it in a private jet Flying to dubai\nAnd all i do is call him\nTo do hentai\nAnd bye-bye\nHey, if we ain’t getting drunk\nWe getting paid\nIma have you begging for this cake\n    \nI know you’ve been thinking about it Don’t be scared of me\nI don’t bite but I touch everything\n\nHey, if we ain’t getting drunk\nWe getting paid\nIma have you begging for this cake\nI know you’ve been thinking about it Don’t be scared of me\nI don’t bite but I touch everything \n—--\nYo se que te gustan\nLas más malas y bandidas\nQue cuando ella te acorrala\nNo haya salida\nQue se ponga loca\nDespués de la bebida\nAh, te gusta?\nWant a bite?\nTú verás lo que vamos a hacer tonight Con par de amiguitas pa’l hotel rulay Guarda unas fotitos en el cel, you like?\n\nHey, if we ain’t getting drunk\nWe getting paid\nIma have you begging for this cake\nI know you’ve been thinking about it No me tengas miedo\nQue no muerdo pero toco to’\n\nHey, if we ain’t getting drunk\nWe getting paid\nIma have you begging for this cake\nI know you’ve been thinking about it No me tengas miedo\nQue no muerdo pero toco to’\nVou jogar na sua cara\nQue isso? Que maravilha Antes de chocar\nVen a cabecearme\nDespués, yo misma, de Lassie Te llamo tú taxi\nEs que no estoy en amor Pero casi, casi\nMe dice mai\nY yo le digo daddy\nAunque no sea mi pai\nlo hacemos en un privado Flying to Dubai\nY yo solo lo llamo\nPara hacer Hentai\nY bye-bye\n\nHey, if we ain’t getting drunk\nWe getting paid\nIma have you begging for this cake\n    \nI know you’ve been thinking about it No me tengas miedo\nQue no muerdo pero toco to’\n\nHey, if we ain’t getting drunk\nWe getting paid\nIma have you begging for this cake\nI know you’ve been thinking about it No me tengas miedo\nQue no muerdo pero toco to’ \n\n#Anitta #CasiCasi #FunkGeneration #AFavelaLoveStory\n\nANITTA: \nSpotify | http://sptfy.com/1PY8\nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\n#Anitta",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hrvx9lpnDpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hrvx9lpnDpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hrvx9lpnDpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hrvx9lpnDpk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hrvx9lpnDpk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hrvx9lpnDpk"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "Hrvx9lpnDpk",
+        "videoPublishedAt": "2023-08-18T00:02:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hQgyhzjsCXwcBfRFcSd8Jz6kqss",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LldMNmwxMmotbFRB",
+      "snippet": {
+        "publishedAt": "2023-08-18T00:02:24Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta - Used To Be (Official Lyric Video)",
+        "description": "Anitta “Used To Be”, available everywhere now: https://Anitta.lnk.to/AFavelaLoveStory\n\nANITTA: \nSpotify | http://sptfy.com/1PY8\nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\nLyrics:\nChorus:\nI used to be a hoe but now I aint no more, been swimming through the water now I’m back to shore,\nI look at who i did and i’m like ‘oh my lord’,\nI used to be a ho oh oh oh oh oh oh oh oh oh oh oh\nnow I aint no more oh oh oh oh oh,\nI used to be a ho oh oh oh oh oh,\nnow I aint no more oh oh oh oh oh oh,\n\nVerse 1:\nUna perra de raza Muy dura de matar Pero ahora soy mansa Y ya no muerdo más Rompí muchos corazones Y a mi no me lo rompieron Pero ya yo no quiero Toy tranquila y ya\n\n\nPre Chorus:\nAndé por el mundo buscando placer Pero ya no queda nada na\nNo discriminaba ni rico ni pobre\nA toditos les daba\nKeep talking cuz I aint gon’ hear what you say, (time to switch up energy)\n\nChorus 2:\nI used to be a hoe but now I aint no more, been swimming through the water now I’m back to shore,\nI look at who i did and i’m like ‘oh my lord’,\nI used to be a ho oh oh oh oh oh oh oh oh oh oh oh\nnow I aint no more oh oh oh oh oh,\nI used to be a ho oh oh oh oh oh,\nnow I aint no more oh oh oh oh oh oh\n(Used to be one but I aint no more)\n\nVerse 2:\nUna perra de raza Muy dura de matar Pero ahora soy mansa Y ya no muerdo más\nYo rompía to las camas Pero ya no hago reguero Ahora para comerlo Debe ser no ah\n\nPre Chorus 2:\nAndé por el mundo buscando placer Pero ya no queda nada na\nNo discriminaba ni rico ni pobre\nA toditos les daba\nKeep talking cuz I aint gon’ hear what you say, (time to switch up energy)\n\nChorus 3:\nI used to be a hoe but now I aint no more, been swimming through the water now I’m back to shore,\nI look at who i did and i’m like ‘oh my lord’,\nI used to be a ho oh oh oh oh oh oh oh oh oh oh oh\nnow I aint no more oh oh oh oh oh,\nI used to be a ho oh oh oh oh oh,\nnow I aint no more oh oh oh oh oh oh\n(Used to be one but I aint no more)\n\nOutro:\n(Una perra de raza)\nMuy dura de matar\n(Pero ahora soy mansa)\nY ya no muerdo más\n(Used to be one but I aint no more) \n     \n#Anitta #UsedToBe #FunkGeneration #AFavelaLoveStory",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WL6l12j-lTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WL6l12j-lTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WL6l12j-lTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WL6l12j-lTA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WL6l12j-lTA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WL6l12j-lTA"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "WL6l12j-lTA",
+        "videoPublishedAt": "2023-08-18T00:02:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ESol9blVf7g2BkRp1KO_jaUvm64",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LnptV3pxS1JtTGdj",
+      "snippet": {
+        "publishedAt": "2023-08-18T00:00:32Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta - Used To Be (Official Audio)",
+        "description": "Official audio for Anitta “Used To Be”, available everywhere now: https://Anitta.lnk.to/AFavelaLoveStory\n\nFollow Anitta: \nSpotify | http://sptfy.com/1PY8 \nInstagram | http://instagram.com/anitta \nTwitter | http://twitter.com/anitta \nFacebook | http://facebook.com/AnittaOficial\nTikTok | https://www.tiktok.com/@anitta\n\nLyrics:\nChorus:\nI used to be a hoe but now I aint no more, been swimming through the water now I’m back to shore,\nI look at who i did and i’m like ‘oh my lord’,\nI used to be a ho oh oh oh oh oh oh oh oh oh oh oh\nnow I aint no more oh oh oh oh oh,\nI used to be a ho oh oh oh oh oh,\nnow I aint no more oh oh oh oh oh oh,\n\n\nVerse 1:\nUna perra de raza Muy dura de matar Pero ahora soy mansa Y ya no muerdo más Rompí muchos corazones Y a mi no me lo rompieron Pero ya yo no quiero Toy tranquila y ya\n\n\nPre Chorus:\nAndé por el mundo buscando placer Pero ya no queda nada na\nNo discriminaba ni rico ni pobre\nA toditos les daba\nKeep talking cuz I aint gon’ hear what you say, (time to switch up energy)\n\n\nChorus 2:\nI used to be a hoe but now I aint no more, been swimming through the water now I’m back to shore,\nI look at who i did and i’m like ‘oh my lord’,\nI used to be a ho oh oh oh oh oh oh oh oh oh oh oh\nnow I aint no more oh oh oh oh oh,\nI used to be a ho oh oh oh oh oh,\nnow I aint no more oh oh oh oh oh oh\n(Used to be one but I aint no more)\n\n\nVerse 2:\nUna perra de raza Muy dura de matar Pero ahora soy mansa Y ya no muerdo más\nYo rompía to las camas Pero ya no hago reguero Ahora para comerlo Debe ser no ah\n\n\nPre Chorus 2:\nAndé por el mundo buscando placer Pero ya no queda nada na\nNo discriminaba ni rico ni pobre\nA toditos les daba\nKeep talking cuz I aint gon’ hear what you say, (time to switch up energy)\n\n\nChorus 3:\nI used to be a hoe but now I aint no more, been swimming through the water now I’m back to shore,\nI look at who i did and i’m like ‘oh my lord’,\nI used to be a ho oh oh oh oh oh oh oh oh oh oh oh\nnow I aint no more oh oh oh oh oh,\nI used to be a ho oh oh oh oh oh,\nnow I aint no more oh oh oh oh oh oh\n(Used to be one but I aint no more)\n\n\nOutro:\n(Una perra de raza)\nMuy dura de matar\n(Pero ahora soy mansa)\nY ya no muerdo más\n(Used to be one but I aint no more) \n          \n#Anitta #UsedToBe #FunkGeneration #AFavelaLoveStory    \n\nMusic video by Anitta performing Used To Be (Visualizer). A Republic Records and Universal Music Latin Entertainment release.; © 2023 Floresta Records Inc., under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zmWzqKRmLgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zmWzqKRmLgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zmWzqKRmLgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zmWzqKRmLgc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zmWzqKRmLgc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zmWzqKRmLgc"
+        },
+        "videoOwnerChannelTitle": "AnittaVEVO",
+        "videoOwnerChannelId": "UCtumXDPrqd3lhGEVyIex1lw"
+      },
+      "contentDetails": {
+        "videoId": "zmWzqKRmLgc",
+        "videoPublishedAt": "2023-08-18T00:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3ExxjpaIUt7ngDUdUTRWexsviss",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LkRQM0w0WEIydWRF",
+      "snippet": {
+        "publishedAt": "2023-08-18T00:00:04Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta - Casi Casi (Official Audio)",
+        "description": "Official audiofor Anitta “Casi Casi”, available everywhere now: https://Anitta.lnk.to/AFavelaLoveStory\n\nFollow Anitta: \nSpotify | http://sptfy.com/1PY8 \nInstagram | http://instagram.com/anitta \nTwitter | http://twitter.com/anitta \nFacebook | http://facebook.com/AnittaOficial\nTikTok | https://www.tiktok.com/@anitta\n\nLyrics:\nI know that you like them\nThe baddest and the most outlawed\nThat when she traps you\nThere is no way out\nLet her go crazy\nAfter the drinking\nOh, you like it?\nWant a bite?\nYou will see what we do tonight\nWith a couple of friends to the hotel to be crazy\n\nHey, if we ain’t getting drunk\nWe getting paid\nIma have you begging for this cake\nI know you’ve been thinking about it Don’t be scared of me\nI don’t bite but I touch everything\n\nHey, if we ain’t getting drunk\nWe getting paid\nIma have you begging for this cake\nI know you’ve been thinking about it Don’t be scared of me\nI don’t bite but I touch everything\n          \nI’ll throw it in your face What’s that? That’s wonderful Before you crash\nCome and rock me\nThen me, being a good girl\nIll call your taxi\nBut almost, almost\nThey will call me mom\nAnd I will call you daddy\nEven if your not my dad\nWe will do it in a private jet Flying to dubai\nAnd all i do is call him\nTo do hentai\nAnd bye-bye\nHey, if we ain’t getting drunk\nWe getting paid\nIma have you begging for this cake\n        \nI know you’ve been thinking about it Don’t be scared of me\nI don’t bite but I touch everything\n\nHey, if we ain’t getting drunk\nWe getting paid\nIma have you begging for this cake\nI know you’ve been thinking about it Don’t be scared of me\nI don’t bite but I touch everything \n—--\nYo se que te gustan\nLas más malas y bandidas\nQue cuando ella te acorrala\nNo haya salida\nQue se ponga loca\nDespués de la bebida\nAh, te gusta?\nWant a bite?\nTú verás lo que vamos a hacer tonight Con par de amiguitas pa’l hotel rulay Guarda unas fotitos en el cel, you like?\n\nHey, if we ain’t getting drunk\nWe getting paid\nIma have you begging for this cake\nI know you’ve been thinking about it No me tengas miedo\nQue no muerdo pero toco to’\n          \nHey, if we ain’t getting drunk\nWe getting paid\nIma have you begging for this cake\nI know you’ve been thinking about it No me tengas miedo\nQue no muerdo pero toco to’\nVou jogar na sua cara\nQue isso? Que maravilha Antes de chocar\nVen a cabecearme\nDespués, yo misma, de Lassie Te llamo tú taxi\nEs que no estoy en amor Pero casi, casi\nMe dice mai\nY yo le digo daddy\nAunque no sea mi pai\nlo hacemos en un privado Flying to Dubai\nY yo solo lo llamo\nPara hacer Hentai\nY bye-bye\n\nHey, if we ain’t getting drunk\nWe getting paid\nIma have you begging for this cake\n        \nI know you’ve been thinking about it No me tengas miedo\nQue no muerdo pero toco to’\n\nHey, if we ain’t getting drunk\nWe getting paid\nIma have you begging for this cake\nI know you’ve been thinking about it No me tengas miedo\nQue no muerdo pero toco to’ \n\n#Anitta #CasiCasi #FunkGeneration #AFavelaLoveStory\n\n\nMusic video by Anitta performing Casi Casi (Visualizer). A Republic Records and Universal Music Latin Entertainment release.; © 2023 Floresta Records Inc., under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DP3L4XB2udE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DP3L4XB2udE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DP3L4XB2udE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DP3L4XB2udE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DP3L4XB2udE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DP3L4XB2udE"
+        },
+        "videoOwnerChannelTitle": "AnittaVEVO",
+        "videoOwnerChannelId": "UCtumXDPrqd3lhGEVyIex1lw"
+      },
+      "contentDetails": {
+        "videoId": "DP3L4XB2udE",
+        "videoPublishedAt": "2023-08-18T00:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RzxDLQ5DKN2BbOJ-SnZ917Ei3jg",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LmhjMEdhcWtUT0pZ",
+      "snippet": {
+        "publishedAt": "2023-07-07T23:27:03Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Dança comigo? #FunkRaveChallenge #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hc0GaqkTOJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hc0GaqkTOJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hc0GaqkTOJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hc0GaqkTOJY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hc0GaqkTOJY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hc0GaqkTOJY"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "hc0GaqkTOJY",
+        "videoPublishedAt": "2023-07-07T23:27:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2sV9eqfnCnlWUZnnvUSmweztFh0",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LlJ3amlOR3pBZDN3",
+      "snippet": {
+        "publishedAt": "2023-07-01T18:32:58Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Behind the scenes of the FUNK RAVE music video #funkravechallenge #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RwjiNGzAd3w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RwjiNGzAd3w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RwjiNGzAd3w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RwjiNGzAd3w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RwjiNGzAd3w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RwjiNGzAd3w"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "RwjiNGzAd3w",
+        "videoPublishedAt": "2023-07-01T18:32:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IoyH8HHyFqmVA7Dp4RNzgKit45k",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LklrSjBER3ZTcks4",
+      "snippet": {
+        "publishedAt": "2023-06-26T16:00:12Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Esse desafio ainda não consegui hahaha Vinicius Jr. #FunkRaveChallenge #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IkJ0DGvSrK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IkJ0DGvSrK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IkJ0DGvSrK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IkJ0DGvSrK8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IkJ0DGvSrK8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IkJ0DGvSrK8"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "IkJ0DGvSrK8",
+        "videoPublishedAt": "2023-06-26T16:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eKDNgpnbDNzUHIeWvwtsi26H_5w",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LkVyQ0pMUVJYZWFB",
+      "snippet": {
+        "publishedAt": "2023-06-25T20:59:31Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "parte 2 do tutorial de #FunkRaveChallenge. Já aprendeu? Quero ver o seu #Shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ErCJLQRXeaA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ErCJLQRXeaA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ErCJLQRXeaA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ErCJLQRXeaA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ErCJLQRXeaA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ErCJLQRXeaA"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "ErCJLQRXeaA",
+        "videoPublishedAt": "2023-06-25T20:59:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fT1AOsra1Rnud_JFYuQgQNNkUwk",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LkphS3JHV0FsMGVr",
+      "snippet": {
+        "publishedAt": "2023-06-25T17:03:02Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Have you danced Funk Rave today? #funkravechallenge #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JaKrGWAl0ek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JaKrGWAl0ek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JaKrGWAl0ek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JaKrGWAl0ek/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JaKrGWAl0ek/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JaKrGWAl0ek"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "JaKrGWAl0ek",
+        "videoPublishedAt": "2023-06-25T17:03:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0C_8cfADm4KLFRXirFUgxHDaXMs",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LlhIZmFfOWNQbDkw",
+      "snippet": {
+        "publishedAt": "2023-06-23T20:37:25Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Tutorial #FunkRaveChallenge vem aprender e fazer o seu vídeo aqui no #YoutubeShorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XHfa_9cPl90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XHfa_9cPl90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XHfa_9cPl90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XHfa_9cPl90/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XHfa_9cPl90/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XHfa_9cPl90"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "XHfa_9cPl90",
+        "videoPublishedAt": "2023-06-23T20:37:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bQd4w2orvSEIEoxFIRO9Mfn4Rk4",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LmZnRDk1bzgzMU9F",
+      "snippet": {
+        "publishedAt": "2023-06-23T15:05:06Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "IT'S OUT! GO to Youtube and watch the FUNK RAVE music video! #funkravechallenge #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fgD95o831OE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fgD95o831OE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fgD95o831OE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fgD95o831OE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fgD95o831OE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fgD95o831OE"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "fgD95o831OE",
+        "videoPublishedAt": "2023-06-23T15:05:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uyP9cfpTQ8lxRUlRmPUOuUkIWyU",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LlNtcE5tc3VOQTJF",
+      "snippet": {
+        "publishedAt": "2023-06-23T15:00:08Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta - Funk Rave (Official Music Video)",
+        "description": "Official music video for Anitta “Funk Rave”, available everywhere now: https://Anitta.lnk.to/FunkRave\n\nFollow Anitta: \nSpotify | https://anitta.lnk.to/Spotify\nInstagram | http://instagram.com/anitta \nTwitter | http://twitter.com/anitta \nFacebook | http://facebook.com/AnittaOficial\n\nCredits:\nProduced by GINGA PICTURES \nCreative Director: Anitta \nDirected by João Wainer e Ricardo Souza  \nExecutive Producer: Felipe Britto \nProducer: Mel Chapaval Lebensztajn \nAsst Executive Producer: Bernie Walbenny \nDirector of Photography: Miguel Vassy \nProduction Designer: Zé Luca \nLine Producer: Tim Maia \nAnitta’s Stylist: Daniel Ueda \nAnitta’s Hair and Make Up Artist: Henrique Martins and Krisna \n1AD: Lili Faria \n2AD: Bella Andreo \n3AD: Ariel Lebensztajn \nAD Dept Intern: Daniel Chapaval \nProduction Supervisor: Talita Cassiano \nTransport Coordinator: Wesley Oliveira \n1st PA: Gabriela Viviani \n2nd PA: Bia Meira, Natty Longoni e Isadora Bertolini \nLocation Manager: Pica Pau do Sul \nPlatô: André Gilz \nAss. Platô: Felipe Cobete, Daniel de Paula, Key, João Rosa, Moacir de Souza, Rafael Rodrigues Location Manager: Daniel \nCasting: iCast \nExtras Casting: Case \nPerfomance Coach: Márcio Mehiel \nAss. Performance Coach: Leonardo Feijó \nChoreographer: Alline Azevedo \nStand-in Anitta: Andressa Melo \nInvited Cast: Bonde das Maravilhas, Gabriel do Borel, Carol Rangel, Fabricio Assis, Ramon Francisco, Yuri Meirelles.  \nArt Coordinator: Maria França \nProp Master: Roberta Costa \nArt Director: Luiz Carlos Costa \nSet Dresser: Ronald da Silva, Thiago do Nascimento, Vinícius Palhares \n\nGraffiti Artist: Miguel Rodrigues Pimentel \nGraphic Designer: Guiga Almada \nVFX: Marcelo Couto \nVFX Asst: Luciano Freire, Leandro Ennes, Raimundo Souto, Rodrigo de Oliveira \nDirector of Photography (2nd Unit): Pedro Viana \n1AC: Léo Bandeira \n2AC: Maria Luiza Abreu \n1AC (2nd Unit):  Uerlem Queiroz \nLogger: João França \nVTR: Guilherme Medeiros \nBTS (video): Victor Lima, Patrick Marinho \nBTS (photos): Ricardo Brunini \nDrone: Luiz Paulo Cavedagne, Sergio Mariano \nSound Mixer: Douglas Vianna, Rubinei Filho  \nBoom Op: Raquel Casimiro \nIn-ear: Teleponto \nGaffer: Vitinho \nBB Electric: Jorge Sena \nElectric: Daniel Moreira, Bruno de Souza, Alexandre Rabelo, Thales Maciel \nKey Grip: Hallfmam \nBB Grip: LF Martins \nGrip: Bigorna, Jon Lima, Douglas Macario, Douglas manhaes \nStylist: Bella Cardoso \nWardrobe Asst: Poliana Braga \nWardrobe Asst: Maycon da Costa, Nina Simão, Thiago José Bastos  \nAss. Stylist Ueda: Hugo Machado, Bruna Cidade, Victor Guedes, Victor Yuuki \nWardrobe Asst: Salvadora, Marlucia, Joicy Nascimento, Eliana Ruth, Maria Izabel, Leonardo Santana, Laura Lima, Cristine de Souza, Aline Machado \nWardrobe Intern: Mary Miguel \nMake Up Artist Cast: Ana França \nAss. Make Up Artist Cast: Paula Teixeira, Maurilio Gomes, Wagner Resende \nHair: Andréia Jovito \nAss. Make Up Artist Anitta: Ricardo Leal, Melissa Tostes \n\nCamera Equipment: Araguaia Filmes \nG&E Gear: All Cine \nProduction Supplies: ETC Locações, Di Tudo Catering: Set Refeições \nOperational Support: BodyGuard Generator: Translig Geradores \n\nLyrics:\nLook at what you cannot have\nBoss, bad woman, bad\nFind me in the tropics\nOn the side of Punta Cana\nTasty, if you taste it\nI’m coming, why are you staying?\nYou leaving your girl?\nIt’s tasty in the mouth\nHe takes me to insanity\nWith what I have in the bank\nI can buy the cure\n-\nI’m hot without posing\nToday I pay for everything\nAnd after 12\nI like it all\nI want to go crazy until tomorrow\nI don’t owe anybody an explanation\n-coro-\nStep on it, high five it, take it out, take it (x8)\n-\nGot that sauce\nDon’t make me talk\nOr I’ll make you cry\nBla bla bla\nI’m not going to listen\nUnless it’s to pay me\n-\nI’m hot without posing\nToday I pay for everything\nAnd after 12\nI like it all\nI want to go crazy until tomorrow\nI don’t owe anybody an explanation\n-coro-\n_________________________\nLook at what you cannot have\nBoss, mulher mala, mala\nEncuéntrame en el trópico\nPor los lados de Punta Cana\nTasty, si pruebas\nVoy a que te quedas\nTasty, si pruebas\nVas a dejar tu jeva\nÉ gostoso de boca\nMe lleva a la locura\nCon lo que tengo en el banco\nYo me compro la cura\n-\nEstoy en roce sin pose\nHoy yo pago to’\nY después de las 12\nA mi me gusta to’\nQuiero desacato hasta la mañana\nA nadie le debo explicación\n-coro-\nPísala, chócala, sácala, tómala (x8)\n-\nGot that sauce\nNo me haga hablar\nQue te hago llorar\nBla bla bla\nNo voy a escuchar\nSi no es pa’ pagarme\n-\nEstoy en roce sin pose\nHoy yo pago to’\nY después de las 12\nA mi me gusta to’\nQuiero desacato hasta la mañana\nA nadie le debo explicación\n-coro-\n\n\n#Anitta #FunkRave\n\n\n\nMusic video by Anitta performing Funk Rave. A Republic Records and Universal Music Latin Entertainment release.; © 2023 Floresta Records Inc., under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SmpNmsuNA2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SmpNmsuNA2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SmpNmsuNA2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SmpNmsuNA2E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SmpNmsuNA2E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SmpNmsuNA2E"
+        },
+        "videoOwnerChannelTitle": "AnittaVEVO",
+        "videoOwnerChannelId": "UCtumXDPrqd3lhGEVyIex1lw"
+      },
+      "contentDetails": {
+        "videoId": "SmpNmsuNA2E",
+        "videoPublishedAt": "2023-06-23T15:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2bvfMiau5gIRVXXbYjx3GphD600",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13Ll9rd0Y0LXl0MHBZ",
+      "snippet": {
+        "publishedAt": "2023-06-23T13:34:57Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Eu amei as reações dos brasileiros assistindo meu clipe. Disponível 12h #funkravechallenge #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_kwF4-yt0pY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_kwF4-yt0pY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_kwF4-yt0pY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_kwF4-yt0pY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_kwF4-yt0pY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_kwF4-yt0pY"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "_kwF4-yt0pY",
+        "videoPublishedAt": "2023-06-23T13:34:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kyc8ql9aCkdkykGhNOvrXnqtezA",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LlRIU1pSWVVfLXRF",
+      "snippet": {
+        "publishedAt": "2023-06-23T02:25:34Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "FUNK RAVE is out now! Come listen to it! #FunkRaveChallenge #Shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/THSZRYU_-tE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/THSZRYU_-tE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/THSZRYU_-tE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/THSZRYU_-tE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/THSZRYU_-tE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "THSZRYU_-tE"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "THSZRYU_-tE",
+        "videoPublishedAt": "2023-06-23T02:25:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Wu0sgoK5X7fZAjk-h2mFJqNQ5Ns",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LmVaUWZOWTFBZzY4",
+      "snippet": {
+        "publishedAt": "2023-06-23T00:00:21Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta - Funk Rave (Official Lyric Video)",
+        "description": "Official lyric video for Anitta “Funk Rave”, available everywhere now: https://Anitta.lnk.to/FunkRave\n\nFollow Anitta: \nSpotify | http://sptfy.com/1PY8 \nInstagram | http://instagram.com/anitta \nTwitter | http://twitter.com/anitta \nFacebook | http://facebook.com/AnittaOficial\n\nLyrics:\nLook at what you cannot have\nBoss, bad woman, bad\nFind me in the tropics\nOn the side of Punta Cana\nTasty, if you taste it\nI’m coming, why are you staying?\nYou leaving your girl?\nIt’s tasty in the mouth\nHe takes me to insanity\nWith what I have in the bank\nI can buy the cure\n-\nI’m hot without posing\nToday I pay for everything\nAnd after 12\nI like it all\nI want to go crazy until tomorrow\nI don’t owe anybody an explanation\n-coro-\nStep on it, high five it, take it out, take it (x8)\n-\nGot that sauce\nDon’t make me talk\nOr I’ll make you cry\nBla bla bla\nI’m not going to listen\nUnless it’s to pay me\n-\nI’m hot without posing\nToday I pay for everything\nAnd after 12\nI like it all\nI want to go crazy until tomorrow\nI don’t owe anybody an explanation\n-coro-\n_________________________\nLook at what you cannot have\nBoss, mulher mala, mala\nEncuéntrame en el trópico\nPor los lados de Punta Cana\nTasty, si pruebas\nVoy a que te quedas\nTasty, si pruebas\nVas a dejar tu jeva\nÉ gostoso de boca\nMe lleva a la locura\nCon lo que tengo en el banco\nYo me compro la cura\n-\nEstoy en roce sin pose\nHoy yo pago to’\nY después de las 12\nA mi me gusta to’\nQuiero desacato hasta la mañana\nA nadie le debo explicación\n-coro-\nPísala, chócala, sácala, tómala (x8)\n-\nGot that sauce\nNo me haga hablar\nQue te hago llorar\nBla bla bla\nNo voy a escuchar\nSi no es pa’ pagarme\n-\nEstoy en roce sin pose\nHoy yo pago to’\nY después de las 12\nA mi me gusta to’\nQuiero desacato hasta la mañana\nA nadie le debo explicación\n-coro-\n\n\n#Anitta #FunkRave\n\n\nMusic video by Anitta performing Funk Rave (Lyric Video). A Republic Records and Universal Music Latin Entertainment release.; © 2023 Floresta Records Inc., under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eZQfNY1Ag68/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eZQfNY1Ag68/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eZQfNY1Ag68/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eZQfNY1Ag68/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eZQfNY1Ag68/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eZQfNY1Ag68"
+        },
+        "videoOwnerChannelTitle": "AnittaVEVO",
+        "videoOwnerChannelId": "UCtumXDPrqd3lhGEVyIex1lw"
+      },
+      "contentDetails": {
+        "videoId": "eZQfNY1Ag68",
+        "videoPublishedAt": "2023-06-23T00:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vs8em5_UvxHuor0tZCZs0LzC8HI",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LmtEcWJPNExlVllJ",
+      "snippet": {
+        "publishedAt": "2023-06-22T22:03:14Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Hoje sai minha música Funk Rave e você pode continuar fazendo a dança #FunkRaveChallenge #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kDqbO4LeVYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kDqbO4LeVYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kDqbO4LeVYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kDqbO4LeVYI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kDqbO4LeVYI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kDqbO4LeVYI"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "kDqbO4LeVYI",
+        "videoPublishedAt": "2023-06-22T22:03:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6XAclcwwxUUE6b2SGkJy-Y9vUuo",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13Lnd2T3I2RFJHY0Zj",
+      "snippet": {
+        "publishedAt": "2023-06-22T18:12:06Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Quiero verlos haciendo el #FunkRaveChallenge aquí en #YoutubeShorts. Vámonos?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wvOr6DRGcFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wvOr6DRGcFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wvOr6DRGcFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wvOr6DRGcFc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wvOr6DRGcFc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wvOr6DRGcFc"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "wvOr6DRGcFc",
+        "videoPublishedAt": "2023-06-22T18:12:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TDwgks8XWaxF_oHg4cKvsSId0vU",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13Lm80UV95RDhqS3dF",
+      "snippet": {
+        "publishedAt": "2023-06-21T20:55:14Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Are you ready? Funk Rave is coming #shorts #FunkRaveChallenge",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o4Q_yD8jKwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o4Q_yD8jKwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o4Q_yD8jKwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o4Q_yD8jKwE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o4Q_yD8jKwE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o4Q_yD8jKwE"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "o4Q_yD8jKwE",
+        "videoPublishedAt": "2023-06-21T20:55:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Wu9YKBvSQ2heYMGAhSu7SpcZlls",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LlBLOFlTSUdvMS1R",
+      "snippet": {
+        "publishedAt": "2023-06-18T17:19:58Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "I’m all about living life #FunkRaveChallenge #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PK8YSIGo1-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PK8YSIGo1-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PK8YSIGo1-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PK8YSIGo1-Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PK8YSIGo1-Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PK8YSIGo1-Q"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "PK8YSIGo1-Q",
+        "videoPublishedAt": "2023-06-18T17:19:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JLzB2Pe35jCC0jhUoFciDz12k_Y",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LlU2U2dNMXZtUk0w",
+      "snippet": {
+        "publishedAt": "2023-06-14T20:05:35Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Vocês já aprenderam #FunkRaveChallenge? Posta aqui no #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U6SgM1vmRM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U6SgM1vmRM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U6SgM1vmRM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U6SgM1vmRM0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U6SgM1vmRM0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U6SgM1vmRM0"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "U6SgM1vmRM0",
+        "videoPublishedAt": "2023-06-14T20:05:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wWi63uSEXxbng3Ew8nYT7YFZiEU",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LmZmN3k1WTFpMUp3",
+      "snippet": {
+        "publishedAt": "2023-06-13T17:07:12Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "June 22nd - Funk Rave #FunkRaveChallenge",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ff7y5Y1i1Jw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ff7y5Y1i1Jw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ff7y5Y1i1Jw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ff7y5Y1i1Jw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ff7y5Y1i1Jw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ff7y5Y1i1Jw"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "ff7y5Y1i1Jw",
+        "videoPublishedAt": "2023-06-13T17:07:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uCfvFzMq6vOfwoeTnmdKhaCc6Yo",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LkhSMlZwM09QbFFz",
+      "snippet": {
+        "publishedAt": "2023-06-12T19:00:19Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Are you ready to learn my new choreo? You can dance and use #FunkRaveChallenge on #Shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HR2Vp3OPlQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HR2Vp3OPlQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HR2Vp3OPlQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HR2Vp3OPlQs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HR2Vp3OPlQs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HR2Vp3OPlQs"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "HR2Vp3OPlQs",
+        "videoPublishedAt": "2023-06-12T19:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y4XEpnRdF3xR366zwr-vNOQEey4",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13Lk9ZbmJ4R0hmZldn",
+      "snippet": {
+        "publishedAt": "2023-06-11T22:10:15Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "I wanna see all of you dancing to my new song! #funkravechallenge",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OYnbxGHffWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OYnbxGHffWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OYnbxGHffWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OYnbxGHffWg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OYnbxGHffWg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OYnbxGHffWg"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "OYnbxGHffWg",
+        "videoPublishedAt": "2023-06-11T22:10:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "THXrLXTit0vu7ax6-UT6dSWskLE",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LnYwM2ltOUlKaVRZ",
+      "snippet": {
+        "publishedAt": "2023-06-11T14:18:49Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "I wanna see all of u dancing to my new song, post your video on #shorts with #FunkRaveChallenge",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v03im9IJiTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v03im9IJiTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v03im9IJiTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v03im9IJiTY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v03im9IJiTY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v03im9IJiTY"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "v03im9IJiTY",
+        "videoPublishedAt": "2023-06-11T14:18:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JghCz2mDjT3j6ryCZAE9gi7cDHM",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LldMcXBqQVBTNHpN",
+      "snippet": {
+        "publishedAt": "2023-06-10T22:18:17Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "ANITTA x BURNA BOY ft. Alesso: UEFA Champions League Final 2023 Kick Off Show by Pepsi",
+        "description": "Watch @Anitta co-headline the UEFA Champions League Final Kick Off Show by Pepsi, alongside @BurnaBoy and special guest @Alesso at the Atatürk Olympic Stadium, Istanbul.\n\n►Pre-save “Funk Rave” by Anitta (out June 22): https://Anitta.lnk.to/FunkRave\n\n►Follow Anitta:\n\nhttps://anitta.com.br\n\nhttp://instagram.com/anitta\n\nhttp://tiktok.com/@anitta\n\nhttp://twitter.com/anitta\n\nhttp://facebook.com/anittaoficial\n\nhttp://youtube.com/@anitta\n\n \n►Subscribe for more: https://Anitta.lnk.to/YTsubID\n\n \n#Anitta #BurnaBoy #ChampionsLeague",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WLqpjAPS4zM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WLqpjAPS4zM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WLqpjAPS4zM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WLqpjAPS4zM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WLqpjAPS4zM"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "WLqpjAPS4zM",
+        "videoPublishedAt": "2023-06-10T22:18:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2WSbURpZS3z5BqWXG27LQpgq67c",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LlpsZlVQa2RIZmZJ",
+      "snippet": {
+        "publishedAt": "2023-05-24T13:00:34Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Guys! I am so excited to announce that I will be performing at the #PepsiKickOffShow #shorts",
+        "description": "Guys! I am so excited to announce that I will be performing at the #PepsiKickOffShow at this year's UEFA @championsleague final! Me and @burnaboy are going to put on a show you will never forget. \nRegister here: http://bit.ly/PepsiKOSYoutube and tune in at 3:45pm BRT / 8:45pm CEST on June 10 to join the action. Can't wait to see you all there 😍 🏆 @PepsiGlobal #UCL #ad",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZlfUPkdHffI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZlfUPkdHffI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZlfUPkdHffI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZlfUPkdHffI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZlfUPkdHffI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZlfUPkdHffI"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "ZlfUPkdHffI",
+        "videoPublishedAt": "2023-05-24T13:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TkzpFB0Ud1YDgqxF3vIfsQq4-Ms",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LjRTZTB0eWxtb2k4",
+      "snippet": {
+        "publishedAt": "2023-05-18T15:00:07Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta - NU (feat. HITMAKER) [Official Music Video]",
+        "description": "LISTEN HERE ▶ https://lnk.to/NuAnitta\n\nSUBSCRIBE HERE ▶ @anitta  \n\nANITTA: \nSpotify | https://bit.ly/4356mSE\nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\nCREDITS:\nProdução: Hungry Man \nDireção: João Papa \n\nManaging Partner: Alex Mehedff \nExecutive Producer: Alex Mehedeff e Sarina D'Avila \nCriative Executive Producer: Fabio Pinheiro \nLine Producer: Fernanda Kalume\n\nHead of Production: Maran Poian \nIn House Production Coordinator: Gabriel Sidorenko e Rafaela Pellegrini Research: Leonardo Godinho e Vitória Zamfolini \nBusiness Affairs Manager: Matheus Rosa \nCreative Assistant: Jenn Anconi \n\n1AD: Ulisses Wermelinger \n2AD: Ana Rios \n\nProduction Manager: Mateus Galvão \nProduction Assistant: Fernanda Chedid \nProduction Assistant: Victória Almeida\n\nSecurity: Everton Correa Azevedo e Carlos Antônio Virgilino \nSet assistant: Silas Nicola e Gabriel Oliveira\n\nCast Producer: Alice Wolfenson \nChoreographer and Dancer: Amanda de Sousa Araújo \nDancer: LAURA AMORIM COSTA CHAVES \nDancer: Mel Firetti Las Casas \nDancer: Marcela Alexia Oliveira Pinto\n\nDOP: João Papa \n1º AC Alessandro Valese ( Alemão)\n2º AC Alfredo Desio \nVideo ASsist: Dario Valese \nLogger: JP Oliveira \n\nCrane Operator: Hugo Takeuchi \nPhoto Still: Iude Richele \nStill ASsistant: Maria Prado \nGaffer: Hugo Calazans \n1st Electric Renato Lelis\n2nd Electric Vittoria Bronzo Alberto de Oliveira (Betão), Bruno Canhoto e  Luciano Batista\nKey Grip: Rodrigo Fidelis \n1st Grip: Fabiano Oliveira Dias \n2nd Grip: Mozart Pereira Cruz, Marques Junior, Fábio Luis, Iamamoto Campos, Juliano Rodrigues Capinan e Gleice soares da Silva \n\nProduction Designer: Luiz Henrique Pinto \nAssistant Art Director: Eliane de Oliveira \nArt Producer: Matheus Carvalho \nProp Producer: Tatiana Coelho Pereira \nScenic Technician: Daniel,  Allan Marcelo \nInside Prop: Hallan Rubens Soares Ferro e Alberto Castro dos Santos Runners: Murilo Borges, Elton Miranda, Carlos Borges,  Danilo Cruz William da Silva, Henrique Marinho e Clarivaldo dos Santos Wardrobe \n\nStylist: Giovanna Moretto \nASsistant Wardrobe: Hélio Anselmo de Oliveira \nSeamstress: Fran Batista \nMake Up: Victoria Garaventa \nMake up assist: Regiane Caldeira dos Santos, Carlaxane Passos Maia e Sónia Araújo \nMixer: Rodrigo de Macedo Martins \n\nPost Production:\nHead of Post Production:  Rodrigo Oliveira \nPost Production Team: JP Oliveira and Michael Eduardo \nEditor Alexandre Boechat \nPost Production Troop \nColor Grading Bleach \nTransportation Sandro Cheffel \nCâmera Digital 35 \nLight and Grip Moving Track \nGenerator Cash Box Geradores Ltda \nTechnocrane Ale Movimentos\n\nLYRICS \nNU - Anitta feat. Hitmaker\n\nHoje é seu dia de sorte\nJá tô tirando meu short\nTodo Mundo quer mas eu te escolhi\n\nVocê já sabe o caminho\nSabe fazer direitinho\nVem no ouvidinho e vai descendo \n \nVou Descendo\nNo Talento\nBrincando embaixo do umbigo\n\nVou subindo\nTa pedindo\nHoje eu acabo contigo \n\nSó quero te beijar nuuu\nNo quarto escurinho\nFazendo carinho\nE sentando em cima de tu 2x\n\nSó quero te beijar nuuu\nSó quero te beijar nuuu\n\nCalma, relaxa \nMostra como faz \nEncosta, encaixa \nPra frente e pra trás \n\nTu vai pedindo toma\nCê tá gostando toma \nTu tá querendo então \nToma toma toma\n\n#Anitta \n#hitmaker",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Se0tylmoi8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Se0tylmoi8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Se0tylmoi8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4Se0tylmoi8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4Se0tylmoi8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4Se0tylmoi8"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "4Se0tylmoi8",
+        "videoPublishedAt": "2023-05-18T15:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fmmGZguLveK1e38g4VH7dn8BCM0",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LlV2WDRvYm1BcDNn",
+      "snippet": {
+        "publishedAt": "2023-05-10T15:00:11Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta - VAI VENDO [feat. Mc Ryan SP] [Official Music Video]",
+        "description": "LISTEN HERE ▶ https://lnk.to/VAIVENDO\n\nSUBSCRIBE HERE ▶ @anitta  \n\nANITTA: \nSpotify | http://sptfy.com/1PY8\nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\n\nCREDITS:\nProdução: Hungry Man \nDireção: João Papa \n\nManaging Partner: Alex Mehedff \nExecutive Producer: Alex Mehedeff e Sarina D'Avila \nCreative Executive Producer: Fabio Pinheiro \nLine Producer: Fernanda Kalume \nHead of Production: Maran Poian \nIn House Production Coordinator: Gabriel Sidorenko Rafaela Pellegrini \nResearch: Leonardo Godinho e Vitória Zamfolini\nBusiness Affairs Manager: Matheus Rosa \n\nCreative Assistant: Jenn Anconi \n\n1AD: Ulisses Wermelinger \n2AD: Ana Rios \n\nProduction Manager: Mateus Galvão \nProduction Assistant: Fernanda Chedid\nProduction Assistant: Victória Almeida \n\nSecurity: Everton Correa Azevedo e Carlos Antônio Virgilino \n\nSet assistant: Silas Gabriel\n\nCast Producer: Alice Wolfenson \n\nChoreographer and Dancer: Amanda de Sousa Araújo \nDancer: LAURA AMORIM COSTA CHAVES \nDancer: Mel Firetti Las Casas \nDancer: Marcela Alexia Oliveira Pinto\n\nDOP: João Papa \n1º AC: Alessandro Valese ( Alemão) \n2º AC: Alfredo Desio \nVideo Assist: Dario Valese\nLogger: JP Oliveira \n\nCrane Operator: Hugo Takeuchi \nPhoto Still: Iude Richele \nStill Assistant: Maria Prado \n\nGaffer: Hugo Calazans \n1st Electric: Renato Lelis \n2nd Electric: Vittoria Bronzo, Alberto de Oliveira (Betão), Bruno Canhoto e Luciano Batista\n\nKey Grip: Rodrigo Fidelis \n1st Grip: Fabiano Oliveira Dias \n2nd Grip: Mozart Pereira Cruz Marques Junior, Fábio Luis Iamamoto Campos, Juliano \nRodrigues Capinan e Gleice soares da Silva \n\nProduction Designer: Luiz Henrique Pinto \nAssistant Art Director: Eliane de Oliveira \nArt Producer: Matheus Carvalho \nProp Producer: Tatiana Coelho Pereira \n\nScenic Technician: Daniel Allan Marcelo \n\nInside Prop: Hallan Rubens Soares Ferro e Alberto Castro dos Santos \n\nRunners Murilo Borges, Elton Miranda, Carlos Borges, Danilo Cruz, William da Silva, Henrique Marinho e Clarivaldo dos Santos \n\nWardrobe: Stylist Giovanna Moretto \nAssistant Wardrobe: Hélio Anselmo de Oliveira \nSeamstress: Fran Batista \n\nMake Up: Victoria Garaventa \nMake up assist: Regiane Caldeira dos Santos, Carlaxane Passos Maia e Sonia Araujo \n\nMixer: Rodrigo de Macedo Martins \n\nHead of Post Production: Rodrigo Oliveira\nPost Production Team: JP Oliveira and Michael Eduardo \nEditor: Alexandre Boechat \nPost Production: Troop \nColor Grading: Bleach \n\nTransportation: Sandro Cheffel\n\nCâmera: Digital 35 \nLight and Grip: Moving Track \nGenerator: Cash Box Geradores Ltda \nTechnocrane: Ale Movimentos\n\nLYRICS \nVAI VENDO - Anitta feat. MC Ryan SP \n\nTô ficando tonto do jeito \nQue ela empina \nMalvada quer dançar comigo \nFelina quer jogar por cima \n\nÉ que eu sei fazer\nOs negocin que te domina \nEssa manobra é uma obra prima \nDeixa com a mãe que ela te ensina \n\nEspecialista em love love \nVem pra matar tua sede\nTu sobe pelas parede \nCom o macete da bandida\n\nVai vendo, pra que teu coração?\nSe eu já sou dona do seu pensamento \n\nAh se eu fosse esse copo \ncoladinho na tua boca \nPra tu tomar \nPra tu tomar\nPra tu tomar a noite toda \n\nAh se eu fosse esse shortinho \nIa falar pra tua popa \nPode jogar \nPode jogar \nPode jogar a noite toda \n\nEntão joga joga \nVai bandida \nFaz storie, sensualiza \nEla trava na pose \nEla instiga o bonde \nEla desce sobe \nTipo anitta \n\nRainha da favela é ela \nDoida querendo levar \nO coração do vilão \nOlha essa sereia \nQuerendo enganar o tubarão\n\n#anitta  #mcryansp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UvX4obmAp3g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UvX4obmAp3g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UvX4obmAp3g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UvX4obmAp3g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UvX4obmAp3g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UvX4obmAp3g"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "UvX4obmAp3g",
+        "videoPublishedAt": "2023-05-10T15:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fKW6YTmKewa7UTajj5XRs5nSiFA",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13Lm1WSFVxc0pldHA0",
+      "snippet": {
+        "publishedAt": "2023-04-28T00:00:12Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta - VAI VENDO (feat. Mc Ryan SP) [Official Audio]",
+        "description": "LISTEN HERE ▶ https://lnk.to/VAIVENDO\n\n\nSUBSCRIBE HERE ▶ @anitta  \n\nANITTA: \nSpotify | http://sptfy.com/1PY8\nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\nLYRICS \nVAI VENDO - Anitta feat. MC Ryan SP \n\nTô ficando tonto do jeito \nQue ela empina \nMalvada quer dançar comigo \nFelina quer jogar por cima \n\nÉ que eu sei fazer\nOs negocin que te domina \nEssa manobra é uma obra prima \nDeixa com a mãe que ela te ensina \n\nEspecialista em love love \nVem pra matar tua sede\nTu sobe pelas parede \nCom o macete da bandida\n\nVai vendo, pra que teu coração?\nSe eu já sou dona do seu pensamento \n\nAh se eu fosse esse copo \ncoladinho na tua boca \nPra tu tomar \nPra tu tomar\nPra tu tomar a noite toda \n\nAh se eu fosse esse shortinho \nIa falar pra tua popa \nPode jogar \nPode jogar \nPode jogar a noite toda \n\nEntão joga joga \nVai bandida \nFaz storie, sensualiza \nEla trava na pose \nEla instiga o bonde \nEla desce sobe \nTipo anitta \n\nRainha da favela é ela \nDoida querendo levar \nO coração do vilão \nOlha essa sereia \nQuerendo enganar o tubarão\n\n\n#Anitta #mcryansp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mVHUqsJetp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mVHUqsJetp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mVHUqsJetp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mVHUqsJetp4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mVHUqsJetp4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mVHUqsJetp4"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "mVHUqsJetp4",
+        "videoPublishedAt": "2023-04-28T00:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1atTRt8AzAHRVDaU4pOBd0OB-wI",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LldDWXhNQTJWVFNj",
+      "snippet": {
+        "publishedAt": "2023-04-22T22:33:23Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Já fez a dança de Nu? #shorts",
+        "description": "MORE MUSIC ▶\n\nSUBSCRIBE HERE ▶ https://www.youtube.com/channel/UCqjjyPUghDSSKFBABM_CXMw?sub_confirmation=1\n\nANITTA: \nSpotify | http://sptfy.com/1PY8\nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\n#Anitta",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WCYxMA2VTSc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WCYxMA2VTSc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WCYxMA2VTSc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WCYxMA2VTSc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WCYxMA2VTSc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WCYxMA2VTSc"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "WCYxMA2VTSc",
+        "videoPublishedAt": "2023-04-22T22:33:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yhdB1v7ZF40_PmznwA8Vi3jLar8",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13Lm0xSWtOVjVjVXVn",
+      "snippet": {
+        "publishedAt": "2023-04-21T00:00:47Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta - NU (feat. HITMAKER) [Official Audio]",
+        "description": "LISTEN TO NU ▶ https://lnk.to/NuAnitta\n\nSUBSCRIBE HERE ▶ @anitta  \n\nANITTA: \nSpotify | http://sptfy.com/1PY8\nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\nLYRICS \nNU - Anitta feat. Hitmaker\n\nHoje é seu dia de sorte\nJá tô tirando meu short\nTodo Mundo quer mas eu te escolhi\n\nVocê já sabe o caminho\nSabe fazer direitinho\nVem no ouvidinho e vai descendo \n \nVou Descendo\nNo Talento\nBrincando embaixo do umbigo\n\nVou subindo\nTa pedindo\nHoje eu acabo contigo \n\nSó quero te beijar nuuu\nNo quarto escurinho\nFazendo carinho\nE sentando em cima de tu 2x\n\nSó quero te beijar nuuu\nSó quero te beijar nuuu\n\nCalma, relaxa \nMostra como faz \nEncosta, encaixa \nPra frente e pra trás \n\nTu vai pedindo toma\nCê tá gostando toma \nTu tá querendo então \nToma toma toma\n\n#Anitta",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m1IkNV5cUug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m1IkNV5cUug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m1IkNV5cUug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m1IkNV5cUug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m1IkNV5cUug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m1IkNV5cUug"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "m1IkNV5cUug",
+        "videoPublishedAt": "2023-04-21T00:00:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fOwWVFcAVaX58aurSAG7cLE1uzE",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LndVX2syQVlwZDV3",
+      "snippet": {
+        "publishedAt": "2023-04-14T16:26:28Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Gravei um clipe no meio da concentração do desfile da beija flor #shorts #Anitta",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wU_k2AYpd5w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wU_k2AYpd5w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wU_k2AYpd5w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wU_k2AYpd5w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wU_k2AYpd5w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wU_k2AYpd5w"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "wU_k2AYpd5w",
+        "videoPublishedAt": "2023-04-14T16:26:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "x8rrflcu9Ir71ih2t9WlqmNQMk0",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LlBjSFVCUE5KOHln",
+      "snippet": {
+        "publishedAt": "2023-02-28T21:11:24Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Climinha de mistério no ar #shorts",
+        "description": "SUBSCRIBE HERE ▶ https://www.youtube.com/channel/UCqjjyPUghDSSKFBABM_CXMw?sub_confirmation=1\n\nANITTA: \nSpotify | http://sptfy.com/1PY8\nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\n#Anitta #shortvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PcHUBPNJ8yg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PcHUBPNJ8yg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PcHUBPNJ8yg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PcHUBPNJ8yg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PcHUBPNJ8yg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PcHUBPNJ8yg"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "PcHUBPNJ8yg",
+        "videoPublishedAt": "2023-02-28T21:11:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-_WNpJNibxVlVSjBtdMUJNHUW2c",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LkFQdlJVeTVTSzg0",
+      "snippet": {
+        "publishedAt": "2022-12-20T16:28:10Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta - Bola Rebola (Amazon Music Live)",
+        "description": "Anitta performs “Bola Rebola” on Amazon Music Live.\n\nAmazon Music Live is a new concert series hosted by hip-hop royalty, 2 Chainz. Kicking off every week after Thursday Night Football, the shows will feature live, first-time performances from some of today’s hottest artists. Catch it all on Prime Video—when the game ends, live music begins.\n\nWatch Amazon Music Live Thursdays at 9pm PT on Prime Video & Twitch.tv/AmazonMusic\n\nAbout Amazon Music: Amazon Music reimagines music listening by enabling customers to unlock millions of songs and thousands of curated playlists and stations with their voice. Amazon Music provides unlimited access to new releases and classic hits across iOS and Android mobile devices. Fire tablets and the Fire TV Stick Basic Edition, PC, Mac, Echo, and more. With Amazon Music, Prime members have access to ad-free listening of more than two million songs at no additional cost to their membership. Now available in HD, listeners have access to over 75 million songs in High Definition. Engaging with music has never been more natural, simple, and fun.\n\nFor more information, visit amazonmusic.com or download the Amazon Music app.\n\nConnect with Amazon Music:\nVisit Amazon Music WEBSITE: https://amzn.to/amazonmusic\nLike Amazon Music on FACEBOOK: http://bit.ly/AmazonMusicFB\nFollow Amazon Music on TWITTER: http://bit.ly/AmazonMusicTW\nFollow Amazon Music on INSTAGRAM: http://bit.ly/AmazonMusicIG\nFollow Amazon Music on TIKTOK: https://bit.ly/AmazonMusicTT\n\n#AmazonMusicLive\n\n\nANITTA: \n\nSUBSCRIBE HERE ▶ https://www.youtube.com/channel/UCqjjyPUghDSSKFBABM_CXMw?sub_confirmation=1\n\nSpotify | http://sptfy.com/1PY8\nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\n#Anitta",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/APvRUy5SK84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/APvRUy5SK84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/APvRUy5SK84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/APvRUy5SK84/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/APvRUy5SK84/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "APvRUy5SK84"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "APvRUy5SK84",
+        "videoPublishedAt": "2022-12-20T16:28:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JCj5eOmuHWxIhKtwwAIi23Q7K9U",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LjRaXzdKVGZyWmhj",
+      "snippet": {
+        "publishedAt": "2022-12-20T16:28:08Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta - I'd Rather Have Sex (Amazon Music Live)",
+        "description": "Anitta performs “I’d Rather Have Sex” from her album “Versions of Me” on Amazon Music Live.\n\nAmazon Music Live is a new concert series hosted by hip-hop royalty, 2 Chainz. Kicking off every week after Thursday Night Football, the shows will feature live, first-time performances from some of today’s hottest artists. Catch it all on Prime Video—when the game ends, live music begins.\n\n\nWatch Amazon Music Live Thursdays at 9pm PT on Prime Video & Twitch.tv/AmazonMusic\n\n\nAbout Amazon Music: Amazon Music reimagines music listening by enabling customers to unlock millions of songs and thousands of curated playlists and stations with their voice. Amazon Music provides unlimited access to new releases and classic hits across iOS and Android mobile devices. Fire tablets and the Fire TV Stick Basic Edition, PC, Mac, Echo, and more. With Amazon Music, Prime members have access to ad-free listening of more than two million songs at no additional cost to their membership. Now available in HD, listeners have access to over 75 million songs in High Definition. Engaging with music has never been more natural, simple, and fun.\n\n\nFor more information, visit amazonmusic.com or download the Amazon Music app.\n\nConnect with Amazon Music: \n\nVisit Amazon Music WEBSITE: https://amzn.to/amazonmusic\nLike Amazon Music on FACEBOOK: http://bit.ly/AmazonMusicFB\nFollow Amazon Music on TWITTER: http://bit.ly/AmazonMusicTW\nFollow Amazon Music on INSTAGRAM: http://bit.ly/AmazonMusicIG\nFollow Amazon Music on TIKTOK: https://bit.ly/AmazonMusicTT\n\n#AmazonMusicLive\n\n\nANITTA: \n\nSUBSCRIBE HERE ▶ https://www.youtube.com/channel/UCqjjyPUghDSSKFBABM_CXMw?sub_confirmation=1\n\nSpotify | http://sptfy.com/1PY8\nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\n#Anitta",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Z_7JTfrZhc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Z_7JTfrZhc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Z_7JTfrZhc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4Z_7JTfrZhc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4Z_7JTfrZhc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4Z_7JTfrZhc"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "4Z_7JTfrZhc",
+        "videoPublishedAt": "2022-12-20T16:28:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K834uwnqhRz2CwPNUNN6fEOe9Uo",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LjRmekZmaVczUlBN",
+      "snippet": {
+        "publishedAt": "2022-11-30T21:14:20Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta feat Mc Danny e Hitmaker - AI PAPAI [Official Lyric Video]",
+        "description": "MORE MUSIC ▶\n\nSUBSCRIBE HERE ▶ https://www.youtube.com/channel/UCqjjyPUghDSSKFBABM_CXMw?sub_confirmation=1\n\nANITTA: \nSpotify | http://sptfy.com/1PY8\nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\nIntérpretes: Anitta, Mc Danny e Hitmaker\nAutores:  Wallace Vianna, Breder, André Vieira, Romeu R3, Klismman e Tállia\nEditoras: Hitmaker\nProdução Musical: Hitmaker\nEngenheiro(s) de Gravação: Breder\nEngenheiro(s) de Mixagem: Luiz Café\nEngenheiro(s) de Masterização: Luiz Café\nGravado no Estúdio: Hitmaker\n\n\nLyric:\nTe avisei que ia ser uma vez \nTu prometeu não se apaixonar \nE olha quem tá pedindo replay \nSe afogou no chá \n\nUma hora dessa, tá me ligando \nProcurando, tá doidinho pra quebrar tua promessa \nNão tem juramento do dedinho que resista a uma sentada dessa \nTe avisei pra não brincar\n\nEu quero ver tu esquecer depois do chá que eu te dei \nAi papai, macetei \nFoi um tal de vuco vuco, tá maluco, quer replay \nAi papai, Macetei (2X)\n\nMacetada, toma (3X)\nMacetei \nMacetada, toma (3X)\nMacetei\n\n#Anitta",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4fzFfiW3RPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4fzFfiW3RPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4fzFfiW3RPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4fzFfiW3RPM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4fzFfiW3RPM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4fzFfiW3RPM"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "4fzFfiW3RPM",
+        "videoPublishedAt": "2022-11-30T21:14:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8CGcCa3HKbhokrgYje8bLLYh5VY",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LnBOWXVacGltLXRv",
+      "snippet": {
+        "publishedAt": "2022-11-30T20:46:01Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta - MACETAR [Official Lyric Video]",
+        "description": "MORE MUSIC ▶ https://lnk.to/aprocuradaanittaperfeita\n\nSUBSCRIBE HERE ▶ https://www.youtube.com/channel/UCqjjyPUghDSSKFBABM_CXMw?sub_confirmation=1\n\nANITTA: \nSpotify | http://sptfy.com/1PY8\nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\nIntérprete: Anitta\nAutores: Anitta / Junior Gomes / Lucas Medeiros / Rafinha RSQ / Shylton Fernandes\nProdução Musical: RAFINHA RSQ - RAFAEL SILVA DE QUEIROZ\nProdução Executiva: NARA ALMEIDA\nEngenheiro(s) de Gravação: RAFINHA RSQ - RAFAEL SILVA DE QUEIROZ\nEngenheiro(s) de Mixagem: SERGIO SANTOS\nEngenheiro(s) de Masterização: SERGIO SANTOS\nGravado no Estúdio: SALA 3\n\nLyric:\n\nMinha vida é uma obra de arte\nTinha que ser exposta num museu\nNo mundo tem poucas desse naipe\nQuem passou aqui nunca esqueceu\nPorque eu vou descendo, no talento \nJogo a bunda devagar\n\nEu vou te macetar tá tá  \nTe macetar \nEu vou te macetar tá tá \nTe macetar \nEu vou te maceta tá tá tá tá tá tá \nTá tá \nTá tá tá tá tá tá tá tá ta \n\nEu vou te macetar\nFaz com carinho \nVai faz gostoso \nGosta de se envolver com as faixa rosa do morro \n\nFaz com carinho \nVai faz gostoso \nGosta de se envolver com as faixa rosa do morro \n\nTá tá tá tá tá tá tá tá ta \nTá tá (2X)\n\nEu vou te macetar\nFaz com carinho \nVai faz gostoso \nGosta de se envolver com as faixa rosa do morro\n\nFaz com carinho \nVai faz gostoso \nGosta de se envolver com as faixa rosa do morro \n\nTá tá tá tá tá tá tá tá ta \nTá tá (2X)\n\nEu vou te macetar\nFaz com carinho \nVai faz gostoso \nGosta de se envolver com as faixa rosa do morro\n\nFaz com carinho \nVai faz gostoso \nGosta de se envolver com as faixa rosa do morro\n\n#Anitta",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pNYuZpim-to/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pNYuZpim-to/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pNYuZpim-to/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pNYuZpim-to/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pNYuZpim-to/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pNYuZpim-to"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "pNYuZpim-to",
+        "videoPublishedAt": "2022-11-30T20:46:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ads6HsT8TfNipF0z95QWALXytZk",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LkJWMWhpY2NCMUJB",
+      "snippet": {
+        "publishedAt": "2022-11-30T20:45:58Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta feat Wesley Safadão - MEL [Official Lyric Video]",
+        "description": "MORE MUSIC ▶ https://lnk.to/aprocuradaanittaperfeita\n\nSUBSCRIBE HERE ▶ https://www.youtube.com/channel/UCqjjyPUghDSSKFBABM_CXMw?sub_confirmation=1\n\nANITTA: \nSpotify | http://sptfy.com/1PY8\nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\nIntérpretes: Anitta e Wesley Safadão\nAutores: Junior Gomes, Lucas Medeiros , Rafinha RSQ  e SHYLTON FERNANDES\nProdução Musical: RAFINHA RSQ - RAFAEL SILVA DE QUEIROZ \nProdução Executiva: NARA ALMEIDA\nEngenheiro(s) de Gravação: RAFINHA RSQ - RAFAEL SILVA DE QUEIROZ\nEngenheiro(s) de Mixagem: SERGIO SANTOS\nEngenheiro(s) de Masterização: SERGIO SANTOS\nGravado no Estúdio: SALA 3\n\n\nLYRIC:\nE você sai com as amiga\nPras farras da vida\nQuando o álcool bate \nCê vai pro banheiro e me liga\nDizendo assim: Oi vida\n\nMinha cama sabe o que cê quer\nBeijinho do pescoço ao pé\nCê foge pra fazer comigo\nAquele love escondido\n\nSabe porquê cê trai a farra \ne vai comigo pro motel\nÉ que eu sou doce, doce, doce feito mel (2X)\n\nA minha cama é seu pedacinho do céu\n\nMinha cama sabe o que cê quer\nBeijinho do pescoço ao pé\nCê foge pra fazer comigo\nAquele love escondido\n\nSabe porquê cê trai a farra \ne vai comigo pro motel\nÉ que eu sou doce, doce, doce feito mel (2X)\n\nA minha cama é seu pedacinho do céu\n\n#Anitta #wesleysafadão",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BV1hiccB1BA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BV1hiccB1BA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BV1hiccB1BA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BV1hiccB1BA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BV1hiccB1BA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BV1hiccB1BA"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "BV1hiccB1BA",
+        "videoPublishedAt": "2022-11-30T20:45:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KeSH3Rn3TfB_yk1TWdVtNR-ClUQ",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LmF4REw5RC1jZ0hn",
+      "snippet": {
+        "publishedAt": "2022-11-30T20:45:54Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta feat Lexa, POCAH e Rebecca - AVISA LÁ [Official Lyric Video]",
+        "description": "MORE MUSIC ▶ https://lnk.to/aprocuradaanittaperfeita\n\nSUBSCRIBE HERE ▶ https://www.youtube.com/channel/UCqjjyPUghDSSKFBABM_CXMw?sub_confirmation=1\n\nANITTA: \nSpotify | http://sptfy.com/1PY8\nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\nIntérpretes: Anitta, Lexa, Pocah e Rebecca. \nAutores: Wallace Vianna, André Vieira, Breder, Romeu R3, Tállia e Kllismman.\nEditoras: Hitmaker\nProdutor(es) da Gravação: Breder / Kaique Del Giudice\nEngenheiro(s) de Gravação: Breder\nEngenheiro(s) de Mixagem: Luiz Café\nProdução Musical: Hitmaker\n\n\nLyric:\nQuem é que para o baile todo \nDeixa o bagulho doido \nQue bota pra foder \n\nAté quem tá de fora brota \nJá quer colar com a tropa \nO couro vai comer \n\nTô chegando \nTá esquentando \nTô chegando\nMelhor tu se preparar \n\nAvisa lá, avisa lá \nQuem manda nessa porra\nAcabou de chegar \nSai da frente, porra\n\nAvisa lá, avisa lá \nQuem manda nessa porra\nAcabou de chegar \nSai da frente, porra\n\nOlha quem chegou\nOlha quem chegou \nBate, batendo o popô\n\nOlha quem chegou\nOlha quem chegou\nCalma amor, calma amor\n\nOlha quem chegou\nOlha quem chegou \nBate, batendo o popô\n\nOlha quem chegou\nOlha quem chegou\nCalma amor, calma amor\n\nAi que delícia\nFaz a rodinha  \nJoga não pode parar\n\nOh sai da frente \nQue a chapa é quente \nAbre pra tropa passar \n\nTô chegando \nTá esquentando \nTô chegando\nMelhor tu se preparar\n\nAvisa lá, avisa lá \nQuem manda nessa porra\nAcabou de chegar \nSai da frente, porra\n\nAvisa lá, avisa lá \nQuem manda nessa porra\nAcabou de chegar \nSai da frente, porra\n\nOlha quem chegou\nOlha quem chegou \nBate, batendo o popô\n\n#Anitta #Lexa #Pocah #rebecca",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/axDL9D-cgHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/axDL9D-cgHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/axDL9D-cgHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/axDL9D-cgHg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/axDL9D-cgHg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "axDL9D-cgHg"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "axDL9D-cgHg",
+        "videoPublishedAt": "2022-11-30T20:45:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TTSsfWD2nO9sw8bXQSXLO8en0Qw",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LmVXTE5IaTUyemdv",
+      "snippet": {
+        "publishedAt": "2022-11-30T20:45:50Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta feat Maiara & Maraisa - ELA NÃO VALE NADA [Official Lyric Video]",
+        "description": "MORE MUSIC ▶ https://lnk.to/aprocuradaanittaperfeita\n\nSUBSCRIBE HERE ▶ https://www.youtube.com/channel/UCqjjyPUghDSSKFBABM_CXMw?sub_confirmation=1\n\nANITTA: \nSpotify | http://sptfy.com/1PY8\nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\nIntérpretes: Anitta, Maiara & Maraisa\nAutores: Anitta, André Vieira / Breder / Wallace Vianna\nEditoras: Hitmaker\nProdução Musical: Hitmaker\nEngenheiro de gravação: Kaique Del Giudice\nEngenheiro(s) de Mixagem: Luiz Café\nEngenheiro(s) de Masterização: Luiz Café\nGravado no Estúdio: Hitmaker\n\nLyric:\nQuem é você? \nPra falar dela\nNão sabe nem metade das histórias dela\nNão vem dizer pra me afastar dela\nEu troco qualquer bofe pra ficar com ela\n\nEla que chora comigo\nQue fica comigo\nQuando eu tô na bad\n\nEla que bebe comigo\nQue trava na pose\nQue joga e desce\n\nEla quem traz um amigo\nPra ficar comigo\nQue ela já pegou\nOnde essa maluca tá eu tô\n \nEla não vale nada\nMas é minha amiga\nCachorra bandida\nBota pra foder\n\nEla não vale nada\nMas é minha amiga\nSua rapariga\nEu amo você\n\nEla não vale nada\nMas é minha amiga\nCachorra bandida\nBota pra foder\n\nEla não vale nada\nMas é minha amiga\nSua rapariga\nEu amo você\n\n#Anitta #maiaraemaraisa",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eWLNHi52zgo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eWLNHi52zgo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eWLNHi52zgo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eWLNHi52zgo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eWLNHi52zgo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eWLNHi52zgo"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "eWLNHi52zgo",
+        "videoPublishedAt": "2022-11-30T20:45:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N8UPjEBLJ7GsKEpudfw_slT_ILU",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13Lkh4UktJZG1HaTdZ",
+      "snippet": {
+        "publishedAt": "2022-11-30T20:45:47Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta feat Costa Gold e Rafinha RSQ - Biquíni Vermelhinho [Official Lyric Video]",
+        "description": "MORE MUSIC ▶ https://lnk.to/aprocuradaanittaperfeita\n\nSUBSCRIBE HERE ▶ https://www.youtube.com/channel/UCqjjyPUghDSSKFBABM_CXMw?sub_confirmation=1\n\nANITTA: \nSpotify | http://sptfy.com/1PY8\nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\nIntérpretes: Anitta, COSTA GOLD e RAFINHA RSQ\nAutores: André Nine, Leo Pockriss, Nog, Paul Vance, Predella  e Rafinha RSQ\nProdução Musical: RAFINHA RSQ - RAFAEL SILVA DE QUEIROZ  E ANDRE NINE\nProdução Executiva: NARA ALMEIDA\nEngenheiro(s) de Gravação: RAFINHA RSQ - RAFAEL SILVA DE QUEIROZ e André Nine\nEngenheiro(s) de Mixagem: André Nine\nEngenheiro(s) de Masterização:  Brendan Duffey\nGravado no Estúdio:  9 House 1\n\nLyric: \n( Biquini Vermelhinho ) \nRafinha RSQ,  André nine, PreDelas, Nog \n\nEra um biquíni vermelhinho \nCom a marquinha de prainha\nQue bundão, nem cabe na minha mão (2X)\n\nQue ela é dona do jogo disso eu sei \nMal coloquei na minha língua e já fritei \nPique dona da favela muito money \nAmiga da Cardi B tem casa em L.A. \nSurfando no hype não dá mais pra pegar \nIgual tu nunca vai comprar \n\nEra um biquíni vermelhinho \nCom a marquinha de prainha\nQue bundão, nem cabe na minha mão (2X)\n\nLicença pra chegar né, salve Anitta \nSe o dia tá lindo maravilha\nEla bota o biquininho e arebita \nComo que não olha essa booty\nE meu estilo é rude\nEntão bora focar no bumbum né \nEla joga no pique olodum\nE aprendeu com a vovó \nBiquinin de bolinha \nMas hoje ela cresceu e exibe a marquinha \n\nEra um biquíni bem por baixo da sainha, \nvermelhinha, rosadinha toda toda molhadinha, perde a linha patrão \nmeu Deus que mulherão \nEla passa e vem por cima, por cima, por cima empina inclina, se vira e vira revira, cabeça pira \nEla gira e não para não, \nmeu Deus é um avião\n\nTacaTacaTacaTa ham, essa bunda nunca pensa em parar, gira, gira, \nbate que bate que bate empina \nFala comigo bebê, o que tu quiser fazer \nEu quero mil vezes mais que você\n\nEra um biquíni vermelhinho \nCom a marquinha de prainha\nQue bundão, nem cabe na minha mão (4X)\n\n#Anitta #costagold #RafinhaRSQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HxRKIdmGi7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HxRKIdmGi7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HxRKIdmGi7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HxRKIdmGi7Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HxRKIdmGi7Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HxRKIdmGi7Y"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "HxRKIdmGi7Y",
+        "videoPublishedAt": "2022-11-30T20:45:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TLn_rsyzsZMuLlKUqO_F7m5bVVQ",
+      "id": "VVVxamp5UFVnaERTU0tGQkFCTV9DWE13LlphSC1FZ0p1cXNV",
+      "snippet": {
+        "publishedAt": "2022-11-21T04:22:58Z",
+        "channelId": "UCqjjyPUghDSSKFBABM_CXMw",
+        "title": "Anitta - “Envolver” & “Lobby” featuring Missy Elliott live at the 2022 American Music Awards (AMAs)",
+        "description": "Shop my dancers looks: https://us.shein.com/style/Anitta-AMA-sc-00196886.html\n\nMORE MUSIC ▶\n\nSUBSCRIBE HERE ▶ https://www.youtube.com/channel/UCqjjyPUghDSSKFBABM_CXMw?sub_confirmation=1\n\nANITTA: \nSpotify | https://spoti.fi/3hW5NIC \nInstagram | http://instagram.com/anitta\nTwitter | http://twitter.com/anitta\nFacebook | http://facebook.com/AnittaOficial\n\n#Anitta #MissyElliott #AMAs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZaH-EgJuqsU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZaH-EgJuqsU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZaH-EgJuqsU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZaH-EgJuqsU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZaH-EgJuqsU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anitta",
+        "playlistId": "UUqjjyPUghDSSKFBABM_CXMw",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZaH-EgJuqsU"
+        },
+        "videoOwnerChannelTitle": "Anitta",
+        "videoOwnerChannelId": "UCqjjyPUghDSSKFBABM_CXMw"
+      },
+      "contentDetails": {
+        "videoId": "ZaH-EgJuqsU",
+        "videoPublishedAt": "2022-11-21T04:22:58Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 162,
+    "resultsPerPage": 50
+  }
+}
