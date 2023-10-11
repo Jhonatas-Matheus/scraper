@@ -54,15 +54,9 @@ const scraperTiktok = async (username) => {
         heartCount: currentUser.stats.heartCount,
         videoCount: currentUser.stats.videoCount
       }
-      // console.log(currentUser)
-      // console.log(await screaperTiktokVideos(currentUser))
-      // const { itemList } = await screaperTiktokVideos(currentUser)
-      // currentUser.videos = itemList
       const videosList = await verifyAndContinueScrapVideos(condensedUser)
-      // console.log(videosList)
       condensedUser.videos = videosList
       resolve(condensedUser)
-      // resolve(JSON.parse(objectUser).userInfo);
       await browser.close();
     }, 2000);
   });
@@ -100,7 +94,7 @@ const scraperTiktokVideos = async (userInfo, cursor) => {
     const qs = qsObject.toString();
   
     const unsignedUrl = `https://m.tiktok.com/api/post/item_list/?${qs}`;
-    console.log(unsignedUrl)
+    // console.log(unsignedUrl)
     const signature = await signer.sign(unsignedUrl);
     const navigator = await signer.navigator();
     await signer.close();
@@ -136,7 +130,7 @@ const verifyAndContinueScrapVideos = async (currentUser) =>{
   let videosArray = []
 
   while (continueCondition === true) {
-    console.log('Caiu no while')
+    // console.log('Caiu no while')
     let videosResponse = await scraperTiktokVideos(currentUser,createTimeLastVideo)
     if(videosResponse.itemList){
       videosResponse.itemList.forEach((video)=>{
@@ -150,7 +144,7 @@ const verifyAndContinueScrapVideos = async (currentUser) =>{
     }
   }
   // console.log(videosArray)
-  console.log(videosArray.length)
+  // console.log(videosArray.length)
   return videosArray
 }
 module.exports = scraperTiktok;

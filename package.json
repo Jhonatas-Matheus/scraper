@@ -22,6 +22,7 @@
     "express": "^4.18.2",
     "instatouch": "^2.3.22",
     "puppeteer": "^21.3.6",
+    "puppeteer-core": "^21.3.8",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "tiktok-signature": "^1.8.0"

@@ -65,4 +65,30 @@ Aqui estão os campos relacionados à lista de posts:
 | mentions           | Lista de usuários mencionados no post                |
 | tagged_users       | Lista de usuários marcados no post                   |
 
-Lembre-se de personalizar a documentação conforme necessário para refletir os dados retornados pela sua API.
+## Dados da API - Youtube
+
+A API fornece os seguintes dados sobre o canal:
+
+| Campo             | Descrição                                        |
+|-------------------|--------------------------------------------------|
+| videoCount        | Número de vídeos do canal                        |
+| viewCount         | Contagem total de visualizações do canal         |
+| subscriberCount   | Contagem de inscritos do canal                   |
+
+Aqui estão os campos relacionados à lista de vídeos na playlist:
+
+| Campo       | Descrição                                    |
+|-------------|----------------------------------------------|
+| title       | Título do vídeo na playlist                  |
+| statistics  | Estatísticas do vídeo na playlist            |
+
+Dentro de "statistics", você encontra os seguintes campos:
+
+| Campo          | Descrição                               |
+|----------------|-----------------------------------------|
+| viewCount      | Contagem de visualizações do vídeo      |
+| likeCount      | Contagem de curtidas no vídeo           |
+| favoriteCount  | Contagem de marcações como favorito     |
+| commentCount   | Contagem de comentários do vídeo        |
+
+

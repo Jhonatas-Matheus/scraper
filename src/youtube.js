@@ -1,16 +1,14 @@
 const puppeteer = require('puppeteer');
 require('dotenv').config()
 
-console.log(process.env.YOUTUBE_API_KEY)
-
 // // FUNCAO QUE PEGA O ID DO CANAL
-async function getIdChannel() {
+let displayIdChannel = '';
+async function getIdChannel(profile_name) {
   const browser = await puppeteer.launch({
     executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
-    headless:false
   });
   const page = await browser.newPage();
-  await page.goto('https://www.youtube.com/@anitta/videos');
+  await page.goto(`https://www.youtube.com/@${profile_name}/videos`);
 
   page.waitForSelector("meta[property='og:url']");
 
@@ -18,39 +16,38 @@ async function getIdChannel() {
       return element.content;
     }
   );
-
+  displayIdChannel = idChannel.slice(32)
     await browser.close();
     return idChannel.slice(32)
 }
 
 
 // FUNCAO QUE PEGA OS DADOS DO CANAL
-async function getDataChannel() {
+async function getDataChannel(profile_name) {
   try {
-    const response = await fetch(`https://youtube.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&id=${await getIdChannel()}&key=AIzaSyA3JFFDcsVMNJslBsYfW5nGScFh33VJBgc`);
+    const response = await fetch(`https://youtube.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&id=${await getIdChannel(profile_name)}&key=AIzaSyA3JFFDcsVMNJslBsYfW5nGScFh33VJBgc`);
     const json = await response.json();
-    function dateChannel()
-        { 
-          this.idPlaylist = json.items[0].contentDetails.relatedPlaylists.uploads;
-          this.videoCount = json.items[0].statistics.viewCount;
-          this.viewCount = json.items[0].statistics.viewCount;
-          this.subscriberCount = json.items[0].statistics.subscriberCount;
-        }
+    
 
-      var dataChannel = new dateChannel();
-
-      let idPl = await dataChannel.idPlaylist;
-     dataChannel.videos = await getDataVideos(await idPl);
-      
-     console.dir(dataChannel, {depth:null});
+    function dateChannel(){
+        let dataChannel = {}
+        Reflect.set(dataChannel, "idChannel", displayIdChannel)
+        Reflect.set(dataChannel, "idPlaylist", json.items[0].contentDetails.relatedPlaylists.uploads)
+        Reflect.set(dataChannel, "videoCount", json.items[0].statistics.viewCount)
+        Reflect.set(dataChannel, "viewCount", json.items[0].statistics.viewCount)
+        Reflect.set(dataChannel, "subscriberCount", json.items[0].statistics.subscriberCount)
+        return dataChannel
+    }
+      var dataChannel = dateChannel();
+      let idPl = dataChannel.idPlaylist;
+      dataChannel.videos = await getDataVideos(await idPl);
+      delete dataChannel.idPlaylist;
      return dataChannel;
   } catch (error) {
     console.log(error)
   }
   
 }
-
-
 
 
 // FUNCAO QUE PEGA OS IDS DOS VIDEOS
@@ -90,7 +87,6 @@ async function getDataVideos(idPl) {
     const response = await fetch(`https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=${await getIdsVideos(await idPl)}&key=${process.env.YOUTUBE_API_KEY}`);
     const json = await response.json();
     const videosData = []
-
     json.items.map((e) => {
 
           var dataVideosChannel = new Object(); 
@@ -105,39 +101,4 @@ async function getDataVideos(idPl) {
   
 }
 
-
-
-getDataChannel();
-
-
-
-// async function getIdsVideos() {
-//   const browser = await puppeteer.launch({
-//     executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
-//     headless:false
-//   });
-//   const page = await browser.newPage();
-//   await page.goto('https://www.youtube.com/@thiagofreitascantoroficial/videos');
-
-//   page.waitForSelector("a[id='video-title-link']");
-//   const idsVideos = await page.$$eval("a[id='video-title-link']", (elements) => {
-//       return elements.map((element) => {
-//         return element.href.slice(32);
-//       })
-//     }
-//   );
-//     // await browser.close();
-//     console.log(idsVideos);
-
-//     function concatenarComPercent(vetor) {
-//       if (vetor.length === 0) {
-//         return ""; // Retorna uma string vazia se o vetor estiver vazio
-//       }
-//       const resultado = vetor.join("%2C");
-//       return resultado;
-//     }
-//     const resultadoConcatenado = concatenarComPercent(idsVideos);
-//     console.log(resultadoConcatenado); 
-//     return resultadoConcatenado;
-// }
-// getIdsVideos();
+module.exports = getDataChannel;
