@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 
 
-// // FUNCAO QUE PEGA O ID
+// // FUNCAO QUE PEGA O ID DO CANAL
 async function getIdChannel() {
   const browser = await puppeteer.launch({
     executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
@@ -20,21 +20,25 @@ async function getIdChannel() {
     await browser.close();
     return idChannel.slice(32)
 }
-getIdChannel();
 
-// FUNCAO QUE PEGA OS DADOS DOS CANAL
-async function fetchData() {
+
+// FUNCAO QUE PEGA OS DADOS DO CANAL
+async function getDataChannel() {
   try {
     const response = await fetch(`https://youtube.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&id=${await getIdChannel()}&key=AIzaSyA3JFFDcsVMNJslBsYfW5nGScFh33VJBgc`);
     const json = await response.json();
-    function dados()
+    function dateChannel()
         { 
-          this.uploads = json.items[0].contentDetails.relatedPlaylists.uploads;
+          this.idPlaylist = json.items[0].contentDetails.relatedPlaylists.uploads;
           this.videoCount = json.items[0].statistics.viewCount;
           this.viewCount = json.items[0].statistics.viewCount;
           this.subscriberCount = json.items[0].statistics.subscriberCount;
         }
-      var dataChannel = new dados(); // momento de criação do JSON
+
+      var dataChannel = new dateChannel();
+
+      let idPl = await dataChannel.idPlaylist;
+     dataChannel.videos = await getDataVideos(await idPl);
       
      console.dir(dataChannel, {depth:null});
      return dataChannel;
@@ -45,17 +49,13 @@ async function fetchData() {
 }
 
 
-let uploads = fetchData().then((res)=>{
-  return res.uploads
-})
 
 
 // FUNCAO QUE PEGA OS IDS DOS VIDEOS
-let idVideos = [];
-async function getIdsVideos() {
+async function getIdsVideos(idPl) {
   try {
-    
-    const response = await fetch(`https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&maxResults=50&playlistId=${await uploads}&key=AIzaSyA3JFFDcsVMNJslBsYfW5nGScFh33VJBgc`);
+    let idVideos = [];
+    const response = await fetch(`https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&maxResults=50&playlistId=${await idPl}&key=AIzaSyA3JFFDcsVMNJslBsYfW5nGScFh33VJBgc`);
     const json = await response.json();
 
 
@@ -83,50 +83,32 @@ async function getIdsVideos() {
 
 
 // FUNCAO QUE PEGA OS DADOS DOS VIDEOS
-async function getDataVideos() {
+async function getDataVideos(idPl) {
   try {
-    const response = await fetch(`https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=${await getIdsVideos()}&key=AIzaSyA3JFFDcsVMNJslBsYfW5nGScFh33VJBgc`);
+    const response = await fetch(`https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=${await getIdsVideos(await idPl)}&key=AIzaSyA3JFFDcsVMNJslBsYfW5nGScFh33VJBgc`);
     const json = await response.json();
     const videosData = []
 
     json.items.map((e) => {
 
-      function clearData()
-        { 
-          this.title = e.snippet.title,
-          this.statistics = e.statistics
-        }
-       var dataChannel = new clearData(); 
-
-      videosData.push(dataChannel)
+          var dataVideosChannel = new Object(); 
+          dataVideosChannel.title = e.snippet.title,
+          dataVideosChannel.statistics = e.statistics
+          videosData.push(dataVideosChannel);
     })
-
-     console.dir(videosData, {depth:null});
+     return videosData;
   } catch (error) {
     console.log(error)
   }
   
 }
 
-getDataVideos();
+
+
+getDataChannel();
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// FUNCAO QUE PEGA O IDVIDEO
 // async function getIdsVideos() {
 //   const browser = await puppeteer.launch({
 //     executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
