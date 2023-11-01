@@ -6,6 +6,7 @@ const timeoutMillis = 5 * 60 * 1000;
 const app = express();
 const port = 3000;
 app.get('/tiktok', async (req, res) => {
+  console.log('Chamou a rota')
     const { user } = req.query
     const response = await scraperTiktok(user)
     res.status(200).json(response)
@@ -13,6 +14,7 @@ app.get('/tiktok', async (req, res) => {
   })
 
 app.get('/instagram', async (req, res) => {
+  console.log('Chamou a rota')
   const { user } = req.query
   const response = await screaperInstatram(user)
   res.status(200).json(response)
@@ -20,6 +22,7 @@ app.get('/instagram', async (req, res) => {
 })
 
 app.get('/youtube', async (req, res) => {
+  console.log('Chamou a rota')
   const { user } = req.query
   const response = await getDataChannel(user)
   res.status(200).json(response)

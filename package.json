@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js",
+    "dev": "nodemon src/instagramv2.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -22,7 +23,7 @@
     "express": "^4.18.2",
     "instatouch": "^2.3.22",
     "puppeteer": "^21.3.6",
-    "puppeteer-core": "^21.3.8",
+    "puppeteer-core": "^21.4.1",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "tiktok-signature": "^1.8.0"

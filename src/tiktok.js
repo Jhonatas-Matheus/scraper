@@ -1,19 +1,20 @@
-const puppeteer = require('puppeteer-extra')
+// const puppeteer = require('puppeteer-extra')
+const puppeteer = require('puppeteer-core')
 const axios = require('axios')
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
 const Signer = require("tiktok-signature");
 
 let userDetailsUrl = '';
 let objectUser;
-puppeteer.use(StealthPlugin());
+// puppeteer.use(StealthPlugin());
 
 
 const scraperTiktok = async (username) => {
   const browser = await puppeteer.launch({
-    // Se você estiver usando macbook descomente a linha abaixo:
-    // executablePath:
-    //   "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
     headless: true,
+    defaultViewport: null,
+    args: ["--no-sandbox", "--unlimited-storage"],
+    executablePath: "/usr/bin/google-chrome-stable",
   });
   const page = await browser.newPage();
 
@@ -147,4 +148,10 @@ const verifyAndContinueScrapVideos = async (currentUser) =>{
   // console.log(videosArray.length)
   return videosArray
 }
-module.exports = scraperTiktok;
+(async ()=>{
+  console.log(await scraperTiktok('lostcausejeff'))
+})()
+// module.exports = scraperTiktok;
+docker run -i --init --cap-add=SYS_ADMIN --rm ghcr.io/puppeteer/puppeteer:latest node -e "$(cat src/tiktok.js)"
+
+

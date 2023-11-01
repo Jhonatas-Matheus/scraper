@@ -10,9 +10,10 @@ const screaperInstatram = async (profile_name) =>{
     const urlInstagram = `https://www.instagram.com/${profile_name}`;
     const browser = await puppeteer.launch({
     
-        executablePath:
-          "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
         headless: true,
+        // executablePath: '/Applications/Safari.app/Contents/MacOS/Safari', // Caminho para o executável do Safari
+        // headless: false,
       });
     
       const page = await browser.newPage();
