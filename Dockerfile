@@ -1,4 +1,4 @@
-FROM node:14.16.0-buster-slim@sha256:ffc15488e56d99dbc9b90d496aaf47901c6a940c077bc542f675ae351e769a12
+FROM node:18
 WORKDIR /app
 RUN  apt-get update \
      && apt-get install -y wget gnupg ca-certificates procps libxss1 \
@@ -17,8 +17,7 @@ RUN  apt-get update \
 COPY package*.json .
 RUN npm install
  
-COPY tsconfig.json .
 COPY src ./src
-RUN npm run build
+# RUN npm run build
  
-CMD ["node", "build/index.js"]
+CMD ["node", "src/index.js"]

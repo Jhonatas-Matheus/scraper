@@ -1,15 +1,45 @@
 const express = require("express")
 const scraperTiktok =  require("./tiktok")
 const screaperInstatram = require("./instagram")
-const getDataChannel = require("./youtube")
+const getDataChannel = require("./youtube");
+const { user } = require("instatouch");
 const timeoutMillis = 5 * 60 * 1000;
 const app = express();
 const port = 3000;
-app.get('/tiktok', async (req, res) => {
+app.use(express.json());
+
+app.post('/tiktok', async (req, res) => {
+  let arrayResponse = [];
   console.log('Chamou a rota')
-    const { user } = req.query
-    const response = await scraperTiktok(user)
-    res.status(200).json(response)
+    const { users } = req.body
+    // Solution 1:
+    for (const username of users) {
+      const result = await scraperTiktok(username);
+      arrayResponse.push(result);
+    }
+    res.status(200).json(arrayResponse)
+    // Solution 2: Broken when array or users contains more than 10 elements
+    // const response = users.map(async (username)=>{
+    //   const result = await scraperTiktok(username)
+    //   arrayResponse.push(result)
+    // })
+    // res.status(200).json(await Promise.all(response))
+
+    // Solution 3: 
+    // const timesForExecute = (users.length / 6);
+    // for (let i = 0; i < timesForExecute; i++) {
+    //   const response = users.splice(0,6).map(async (username)=>{
+    //     const result = await scraperTiktok(username)
+    //     console.log(result.nickname)
+    //     return result.nickname
+    //   })
+    //   const fetchData = await Promise.all(response)
+    //   console.log(fetchData)
+    //   arrayResponse.push(...fetchData)
+    // }
+    
+
+    // res.status(200).json(arrayResponse)
 
   })
 

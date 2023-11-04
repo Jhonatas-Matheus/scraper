@@ -1,41 +1,45 @@
-// const puppeteer = require('puppeteer-extra')
-const puppeteer = require('puppeteer-core')
+const puppeteer = require('puppeteer-extra')
 const axios = require('axios')
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
 const Signer = require("tiktok-signature");
 
+puppeteer.use(StealthPlugin());
+
 let userDetailsUrl = '';
 let objectUser;
-// puppeteer.use(StealthPlugin());
-
+let arrayResponse = [];
 
 const scraperTiktok = async (username) => {
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: 'new',
+    // headless: false,
     defaultViewport: null,
     args: ["--no-sandbox", "--unlimited-storage"],
     executablePath: "/usr/bin/google-chrome-stable",
   });
   const page = await browser.newPage();
-
   await page.setRequestInterception(true);
-  page.on('request', async (request) => {
- 
-    if(request.url().includes('https://www.tiktok.com/api/user/detail/')){
-      userDetailsUrl = request.url()
-    }
-    request.continue();
-  });
-
-
+  let urlUserInfo = new Promise (async(resolve)=>{
+    let importantUrls = {};
+    page.on('request', async (request) => {
+      if(request.url().includes('https://www.tiktok.com/api/user/detail/')){
+        importantUrls['userInfo'] = request.url()
+      }
+      if(request.url().includes('https://www.tiktok.com/api/post/item_list/')){
+        importantUrls['userVideos'] = request.url()
+      }
+      if(importantUrls.hasOwnProperty('userInfo') && importantUrls.hasOwnProperty('userVideos')){
+        resolve(importantUrls)
+      }
+      request.continue();
+    });
+  })
 
   await page.goto(`https://www.tiktok.com/@${username}`);
   await page.reload();
 
   return new Promise(async (resolve, reject) => {
-    setTimeout(async () => {
-      await page.goto(userDetailsUrl);
-      await page.evaluate(() => console.log('Testando o console'));
+      await page.goto((await urlUserInfo).userInfo);
       await page.waitForSelector('pre');
       const objectUser = await page.$eval('pre', (el) => {
         return el.innerText;
@@ -55,11 +59,10 @@ const scraperTiktok = async (username) => {
         heartCount: currentUser.stats.heartCount,
         videoCount: currentUser.stats.videoCount
       }
-      const videosList = await verifyAndContinueScrapVideos(condensedUser)
+      const videosList = await scraperTiktokVideosV2(page, (await urlUserInfo).userVideos, username)
       condensedUser.videos = videosList
       resolve(condensedUser)
       await browser.close();
-    }, 2000);
   });
 };
 
@@ -88,25 +91,33 @@ const scraperTiktokVideos = async (userInfo, cursor) => {
       browser_online: "",
       timezone_name: "Europe/London",
     };
-    const signer = new Signer(null, TT_REQ_USER_AGENT);
-    await signer.init();
-  
-    const qsObject = new URLSearchParams(PARAMS);
-    const qs = qsObject.toString();
-  
-    const unsignedUrl = `https://m.tiktok.com/api/post/item_list/?${qs}`;
-    // console.log(unsignedUrl)
-    const signature = await signer.sign(unsignedUrl);
-    const navigator = await signer.navigator();
-    await signer.close();
+    const essentials = new Promise(async(resolve)=>{
+      const signer = new Signer(null, TT_REQ_USER_AGENT);
+      await signer.init();
+    
+      const qsObject = new URLSearchParams(PARAMS);
+      const qs = qsObject.toString();
+    
+      const unsignedUrl = `https://m.tiktok.com/api/post/item_list/?${qs}`;
+      const signature = await signer.sign(unsignedUrl)
+      const navigator = await signer.navigator();
+      resolve({
+        signature,
+        navigator
+      })
+      await signer.close();
+    })
+   
   
     // We don't take the `signed_url` from the response, we use the `x-tt-params` header instead because TikTok has
     // some weird security considerations. I'm not sure if it's a local encode or they actually make a call to their
     // servers to get the signature back, but your API call params are in the `x-tt-params` header, which is used
     // when making the request to the static URL `TT_REQ_PERM_URL` above. I'm assuming because the library launches
     // a headless browser, it's a local encode.
-    const { "x-tt-params": xTtParams } = signature;
-    const { user_agent: userAgent } = navigator;
+    const essentialData = await essentials
+
+    const { "x-tt-params": xTtParams } = await essentialData.signature;
+    const { user_agent: userAgent } = await essentialData.navigator;
   
     const res = await testApiReq({ userAgent, xTtParams });
     const { data } = res;
@@ -125,6 +136,24 @@ async function testApiReq({ userAgent, xTtParams }) {
 }
 return data;
 }
+
+const scraperTiktokVideosV2 = async (page,urlUserVideos,name) => {
+  await page.goto(urlUserVideos)
+  await page.waitForSelector('pre')
+  const userVideos = await page.$eval('pre', (el) => {
+    return el.innerText;
+  });
+  const userVideosArray = JSON.parse(userVideos).itemList
+  if(userVideosArray.length > 0){
+    const condensedUserVideo = userVideosArray.map((video)=>{
+      const {stats, desc } = video
+      return {...stats, desc}
+    })
+    return condensedUserVideo
+  }
+  console.log('Não carregou os vídeos de ' + name)
+  
+}
 const verifyAndContinueScrapVideos = async (currentUser) =>{
   let continueCondition = true;
   let createTimeLastVideo = 0;
@@ -139,19 +168,15 @@ const verifyAndContinueScrapVideos = async (currentUser) =>{
         videosArray.push({...stats, desc})
       })
       createTimeLastVideo = videosResponse.itemList[videosResponse.itemList.length - 1].createTime * 1000
+      // console.log(createTimeLastVideo)
     }
-    if(!videosResponse.hasMore){
+    if(!videosResponse.hasMore || videosArray.length >= 30){
       continueCondition = false
     }
   }
-  // console.log(videosArray)
-  // console.log(videosArray.length)
   return videosArray
 }
-(async ()=>{
-  console.log(await scraperTiktok('lostcausejeff'))
-})()
-// module.exports = scraperTiktok;
-docker run -i --init --cap-add=SYS_ADMIN --rm ghcr.io/puppeteer/puppeteer:latest node -e "$(cat src/tiktok.js)"
+
+module.exports = scraperTiktok;
 
 
