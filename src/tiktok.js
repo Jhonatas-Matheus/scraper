@@ -59,9 +59,16 @@ const scraperTiktok = async (username) => {
         heartCount: currentUser.stats.heartCount,
         videoCount: currentUser.stats.videoCount
       }
-      const videosList = await scraperTiktokVideosV2(page, (await urlUserInfo).userVideos, username)
+      const videosList = await scraperTiktokVideosV2(page, (await urlUserInfo).userVideos, username, condensedUser.videoCount)
       condensedUser.videos = videosList
-      resolve(condensedUser)
+      // console.log(condensedUser.videoCount + '|' + condensedUser.videos.length)
+      if(condensedUser.videos === null){
+        console.log('Ocorreu um erro ao tentar realizar o scraper de ' + username)
+        resolve()
+      }else{
+        console.log(username + 'Dados coletado com sucesso')
+        resolve(condensedUser)
+      }
       await browser.close();
   });
 };
@@ -137,21 +144,30 @@ async function testApiReq({ userAgent, xTtParams }) {
 return data;
 }
 
-const scraperTiktokVideosV2 = async (page,urlUserVideos,name) => {
+const scraperTiktokVideosV2 = async (page,urlUserVideos,name,videoCount) => {
   await page.goto(urlUserVideos)
   await page.waitForSelector('pre')
   const userVideos = await page.$eval('pre', (el) => {
     return el.innerText;
   });
-  const userVideosArray = JSON.parse(userVideos).itemList
-  if(userVideosArray.length > 0){
-    const condensedUserVideo = userVideosArray.map((video)=>{
-      const {stats, desc } = video
-      return {...stats, desc}
-    })
+  try {
+    if(videoCount === 0){
+      return []
+    }
+    const userVideosArray = JSON.parse(userVideos).itemList
+    if(userVideosArray.length > 0){
+      const condensedUserVideo = userVideosArray.map((video)=>{
+        const {stats, desc } = video
+        return {...stats, desc}
+      })
     return condensedUserVideo
+  }    
+  } catch (error) {
+    console.log('Ocorreu o seguinte erro ao tentar carregar os vídeos de ' + name + ':')
+    console.log(error)
+    return null
   }
-  console.log('Não carregou os vídeos de ' + name)
+  
   
 }
 const verifyAndContinueScrapVideos = async (currentUser) =>{
