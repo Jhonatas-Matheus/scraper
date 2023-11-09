@@ -8,35 +8,28 @@ const app = express();
 const port = 3000;
 const fs = require('fs');
 const { stringify } = require("querystring");
+
 app.use(express.json());
 
-const readAndAppendData = (fileName, newData) => {
-  fs.readFile(fileName, 'utf8', (err, data) => {
-    if (err) {
-      // Se o arquivo não existir, crie um novo com os novos dados
-      const initialData = { users: [] };
-      initialData.users.push(newData);
-      fs.writeFile(fileName, JSON.stringify(initialData, null, 2), (err) => {
-        if (err) {
-          console.error('Erro ao criar o arquivo JSON:', err);
-        } else {
-          console.log('Arquivo JSON criado com sucesso.');
-        }
-      });
-    } else {
-      // Se o arquivo existir, adicione os novos dados aos dados existentes
-      const jsonData = JSON.parse(data);
-      jsonData.users.push(newData);
-      fs.writeFile(fileName, JSON.stringify(jsonData, null, 2), (err) => {
-        if (err) {
-          console.error('Erro ao escrever no arquivo JSON:', err);
-        } else {
-          console.log('Dados adicionados ao arquivo JSON com sucesso.');
-        }
-      });
+function readFileJson() {
+  try {
+    const data = fs.readFileSync('file_1_tiktok.json', 'utf8');
+    return JSON.parse(data);
+  } catch (err) {
+    if (err.code === 'ENOENT') {
+      // O arquivo não existe, retornar um objeto vazio
+      return { data: [] };
     }
-  });
-};
+    throw err;
+  }
+}
+
+function pushNewUsersToJSON(newUsers) {
+  const arquivoExistente = readFileJson();
+  arquivoExistente.data = arquivoExistente.data.concat(newUsers);
+
+  fs.writeFileSync('file_1_tiktok.json', JSON.stringify(arquivoExistente, null, 2), 'utf8');
+}
 
 
 
@@ -53,6 +46,7 @@ app.post('/tiktok', async (req, res) => {
         arrayResponse.push(result);
       }
     }
+    pushNewUsersToJSON(arrayResponse)
     res.status(200).json(arrayResponse)
     // Solution 2: Broken when array or users contains more than 10 elements
     // const response = users.map(async (username)=>{
