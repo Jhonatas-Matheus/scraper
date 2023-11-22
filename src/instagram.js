@@ -60,7 +60,7 @@ const scraperInstagram = async (usernames) => {
     headless: false,
     defaultViewport: null,
     args: ["--no-sandbox", "--unlimited-storage"],
-    executablePath: "/usr/bin/google-chrome-stable",
+    // executablePath: "/usr/bin/google-chrome-stable",
   });
   const page = await browser.newPage();
   await handleLoginInstagram(page)
